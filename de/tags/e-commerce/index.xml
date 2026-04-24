@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>E-Commerce on Blowfish</title>
+    <link>https://localhost:1313/de/tags/e-commerce/</link>
+    <description>Recent content in E-Commerce on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/de/tags/e-commerce/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Airika</title>
+      <link>https://localhost:1313/de/users/114-2e8cdaa29760febdf1d75307255aafe9/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/de/users/114-2e8cdaa29760febdf1d75307255aafe9/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/114-2e8cdaa29760febdf1d75307255aafe9/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

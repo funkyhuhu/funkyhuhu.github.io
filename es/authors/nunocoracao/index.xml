@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nuno Coração on Blowfish</title>
+    <link>https://localhost:1313/es/authors/nunocoracao/</link>
+    <description>Recent content in Nuno Coração on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/es/authors/nunocoracao/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>https://localhost:1313/es/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/docs/multi-author/</guid>
+      <description>&lt;p&gt;Algunos sitios web tienen más de un autor contribuyendo con contenido y por lo tanto requieren más de un único autor predeterminado para todo el sitio. Para esos casos de uso, Blowfish permite a los usuarios extender la lista de autores usando la función de múltiples autores.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Construye tu página de inicio usando Blowfish y Hugo</title>
+      <link>https://localhost:1313/es/guides/202310-blowfish-tutorial/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/guides/202310-blowfish-tutorial/</guid>
+      <description>Hace apenas un año, creé Blowfish, un tema de Hugo diseñado para construir mi visión única de mi página de inicio personal. También decidí convertirlo en un proyecto de código abierto. Hoy, Blowfish se ha transformado en un próspero proyecto de código abierto con más de 600 estrellas en GitHub y cientos de usuarios. En este tutorial, te mostraré cómo empezar y tener tu sitio web funcionando en un par de minutos.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
+    </item>
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>https://localhost:1313/es/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/multiple-authors/</guid>
+      <description>Un ejemplo rápido de cómo se podrían usar múltiples autores.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

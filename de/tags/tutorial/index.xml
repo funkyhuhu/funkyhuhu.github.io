@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial on Blowfish</title>
+    <link>https://localhost:1313/de/tags/tutorial/</link>
+    <description>Recent content in Tutorial on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/de/tags/tutorial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Erstellen Sie Ihre Homepage mit Blowfish und Hugo</title>
+      <link>https://localhost:1313/de/guides/202310-blowfish-tutorial/</link>
+      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/de/guides/202310-blowfish-tutorial/</guid>
+      <description>Vor einem Jahr habe ich Blowfish erstellt, ein Hugo-Theme, das meine einzigartige Vision für meine persönliche Homepage verwirklichen sollte. Ich habe mich auch entschieden, es zu einem Open-Source-Projekt zu machen. Heute hat sich Blowfish zu einem florierenden Open-Source-Projekt mit über 600 Sternen auf GitHub und Hunderten von Nutzern entwickelt. In diesem Tutorial zeige ich Ihnen, wie Sie loslegen und Ihre Website in wenigen Minuten zum Laufen bringen.</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/guides/202310-blowfish-tutorial/featured.jpg" />
+    </item>
+    
+  </channel>
+</rss>

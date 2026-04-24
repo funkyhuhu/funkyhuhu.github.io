@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DwKDE on Blowfish</title>
+    <link>https://localhost:1313/de/tags/dwkde/</link>
+    <description>Recent content in DwKDE on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/de/tags/dwkde/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>alst.ovh</title>
+      <link>https://localhost:1313/de/users/112-578198405817d000a9b09d08fe594b1f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/de/users/112-578198405817d000a9b09d08fe594b1f/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/112-578198405817d000a9b09d08fe594b1f/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

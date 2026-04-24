@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>World of Warcraft on Blowfish</title>
+    <link>https://localhost:1313/ja/tags/world-of-warcraft/</link>
+    <description>Recent content in World of Warcraft on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja</language>
+    <managingEditor>nuno@n9o.xyz (Blowfish)</managingEditor>
+    <webMaster>nuno@n9o.xyz (Blowfish)</webMaster>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/ja/tags/world-of-warcraft/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Reyneese on WoW</title>
+      <link>https://localhost:1313/ja/users/105-834393216bdba408631c891ee45d379c/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>nuno@n9o.xyz (Blowfish)</author>
+      <guid>https://localhost:1313/ja/users/105-834393216bdba408631c891ee45d379c/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/105-834393216bdba408631c891ee45d379c/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

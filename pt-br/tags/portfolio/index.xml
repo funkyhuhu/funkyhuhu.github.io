@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Portfolio on Blowfish</title>
+    <link>https://localhost:1313/pt-br/tags/portfolio/</link>
+    <description>Recent content in Portfolio on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/pt-br/tags/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>abantikabhuti.github.io</title>
+      <link>https://localhost:1313/pt-br/users/89-7c98d8b7ba531e032abcd675d4f49c17/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-br/users/89-7c98d8b7ba531e032abcd675d4f49c17/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/89-7c98d8b7ba531e032abcd675d4f49c17/feature.webp" />
+    </item>
+    
+    <item>
+      <title>yag0x1.github.io</title>
+      <link>https://localhost:1313/pt-br/users/90-e4f1c9a4c352ea63707824576d889c8f/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-br/users/90-e4f1c9a4c352ea63707824576d889c8f/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/90-e4f1c9a4c352ea63707824576d889c8f/feature.webp" />
+    </item>
+    
+    <item>
+      <title>eike.in</title>
+      <link>https://localhost:1313/pt-br/users/94-c3df142090b1a28ef311312eb82f1e51/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-br/users/94-c3df142090b1a28ef311312eb82f1e51/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/94-c3df142090b1a28ef311312eb82f1e51/feature.webp" />
+    </item>
+    
+    <item>
+      <title>daytaur.com</title>
+      <link>https://localhost:1313/pt-br/users/100-a8326fb0e2d1670165af1c6547b239dd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-br/users/100-a8326fb0e2d1670165af1c6547b239dd/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/100-a8326fb0e2d1670165af1c6547b239dd/feature.webp" />
+    </item>
+    
+    <item>
+      <title>Artur Tyloch</title>
+      <link>https://localhost:1313/pt-br/users/108-2496d52e0aa601cbba3ad6572e007d26/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-br/users/108-2496d52e0aa601cbba3ad6572e007d26/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/108-2496d52e0aa601cbba3ad6572e007d26/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

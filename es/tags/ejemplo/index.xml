@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ejemplo on Blowfish</title>
+    <link>https://localhost:1313/es/tags/ejemplo/</link>
+    <description>Recent content in Ejemplo on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/es/tags/ejemplo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ejemplos de contenido</title>
+      <link>https://localhost:1313/es/docs/content-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/docs/content-examples/</guid>
+      <description>&lt;p&gt;Si has estado leyendo la documentación en orden, ahora deberías conocer todas las características y configuraciones disponibles en Blowfish. Esta página está diseñada para unir todo y ofrecer algunos ejemplos prácticos que podrías querer usar en tu proyecto Hugo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/docs/content-examples/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>https://localhost:1313/es/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/multiple-authors/</guid>
+      <description>Un ejemplo rápido de cómo se podrían usar múltiples autores.</description>
+      
+    </item>
+    
+    <item>
+      <title>Miniaturas</title>
+      <link>https://localhost:1313/es/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/thumbnail_sample/</guid>
+      <description>Un ejemplo rápido de cómo empezar a usar miniaturas en tus artículos.</description>
+      
+    </item>
+    
+    <item>
+      <title>Iconos</title>
+      <link>https://localhost:1313/es/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/icons/</guid>
+      <description>&lt;p&gt;Blowfish tiene soporte integrado para varios iconos de &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Estos pueden incluirse en tu sitio web a través del &lt;a href=&#34;https://localhost:1313/es/docs/partials/#icon&#34; &gt;partial icon&lt;/a&gt; o el &lt;a href=&#34;https://localhost:1313/es/docs/shortcodes/#icon&#34; &gt;shortcode icon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Además, los iconos personalizados también son totalmente compatibles. Simplemente proporciona tus propios assets de iconos SVG colocándolos en el directorio &lt;code&gt;assets/icons/&lt;/code&gt; en la raíz de tu proyecto. Todos los iconos en el directorio de iconos estarán disponibles en todo el tema. Para lograr el relleno automático de color, cada ruta SVG necesita el atributo XML &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>https://localhost:1313/es/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/markdown/</guid>
+      <description>&lt;p&gt;Este artículo ofrece una muestra del formato básico de Markdown que se puede usar en Blowfish, también muestra cómo se decoran algunos elementos HTML básicos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contenido enriquecido</title>
+      <link>https://localhost:1313/es/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/rich-content/</guid>
+      <description>Este es un &lt;em&gt;ejemplo&lt;/em&gt; de un resumen de contenido &lt;strong&gt;enriquecido&lt;/strong&gt;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Texto de relleno</title>
+      <link>https://localhost:1313/es/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Notación matemática</title>
+      <link>https://localhost:1313/es/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX se puede usar para renderizar notación matemática dentro de los artículos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diagramas y diagramas de flujo</title>
+      <link>https://localhost:1313/es/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/diagrams-flowcharts/</guid>
+      <description>Es fácil agregar diagramas y diagramas de flujo a los artículos usando Mermaid.</description>
+      
+    </item>
+    
+    <item>
+      <title>Gráficos</title>
+      <link>https://localhost:1313/es/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/charts/</guid>
+      <description>Blowfish incluye Chart.js para gráficos y visualizaciones de datos potentes.</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji :parachute:</title>
+      <link>https://localhost:1313/es/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      
+    </item>
+    
+    <item>
+      <title>Usuarios</title>
+      <link>https://localhost:1313/es/users/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/es/users/</guid>
+      <description>&lt;p&gt;Sitios web reales construidos con Blowfish. Consulta la lista completa en &lt;a href=&#34;https://localhost:1313/users/users.json&#34; &gt;formato JSON&lt;/a&gt;.&lt;/p&gt;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;&lt;strong&gt;¿Usuario de Blowfish?&lt;/strong&gt; Para agregar tu sitio a esta lista, &lt;a href=&#34;https://github.com/nunocoracao/blowfish/blob/main/exampleSite/content/users/users.json&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;envía un pull request&lt;/a&gt;.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;/BR&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

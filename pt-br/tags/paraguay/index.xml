@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Paraguay on Blowfish</title>
+    <link>https://localhost:1313/pt-br/tags/paraguay/</link>
+    <description>Recent content in Paraguay on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/pt-br/tags/paraguay/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Paraguay4Life</title>
+      <link>https://localhost:1313/pt-br/users/119-9a4fa7947ad8e197f14bc3d89c98a755/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-br/users/119-9a4fa7947ad8e197f14bc3d89c98a755/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/119-9a4fa7947ad8e197f14bc3d89c98a755/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

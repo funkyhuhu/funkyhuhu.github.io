@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Project Site on Blowfish</title>
+    <link>https://localhost:1313/pt-pt/tags/project-site/</link>
+    <description>Recent content in Project Site on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="https://localhost:1313/pt-pt/tags/project-site/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>m3upt.com</title>
+      <link>https://localhost:1313/pt-pt/users/33-4d4fb24dca11a144122fa0bb831d9d03/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-pt/users/33-4d4fb24dca11a144122fa0bb831d9d03/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/33-4d4fb24dca11a144122fa0bb831d9d03/feature.webp" />
+    </item>
+    
+    <item>
+      <title>ncine.github.io</title>
+      <link>https://localhost:1313/pt-pt/users/98-8f0822721042bca88707da31b1c241e3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://localhost:1313/pt-pt/users/98-8f0822721042bca88707da31b1c241e3/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://localhost:1313/users/98-8f0822721042bca88707da31b1c241e3/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>

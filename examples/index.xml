@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Showcase on Leia&#39;s Notes</title>
+    <link>https://localhost:1313/examples/</link>
+    <description>Recent content in Showcase on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate></lastBuildDate><atom:link href="https://localhost:1313/examples/index.xml" rel="self" type="application/rss+xml" />
+    
+  </channel>
+</rss>
