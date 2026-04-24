@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Despliegue on Blowfish</title>
+    <link>http://localhost:1313/es/tags/despliegue/</link>
+    <description>Recent content in Despliegue on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/es/tags/despliegue/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Alojamiento y despliegue</title>
+      <link>http://localhost:1313/es/docs/hosting-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/hosting-deployment/</guid>
+      <description>&lt;p&gt;Hay muchas formas de desplegar tu sitio web Hugo construido con Blowfish. El tema está diseñado para ser flexible en casi cualquier escenario de despliegue.&lt;/p&gt;&#xA;&lt;p&gt;Blowfish usa URLs relativas en todo el tema. Esto permite que los sitios se desplieguen fácilmente en subcarpetas y hosts como GitHub Pages. Normalmente no se requiere ninguna configuración especial siempre que el parámetro &lt;code&gt;baseURL&lt;/code&gt; haya sido configurado en el archivo &lt;code&gt;hugo.toml&lt;/code&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

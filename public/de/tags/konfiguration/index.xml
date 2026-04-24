@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Konfiguration on Blowfish</title>
+    <link>http://localhost:1313/de/tags/konfiguration/</link>
+    <description>Recent content in Konfiguration on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/de/tags/konfiguration/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Konfiguration</title>
+      <link>http://localhost:1313/de/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/docs/configuration/</guid>
+      <description>&lt;p&gt;Blowfish ist ein hochgradig anpassbares Theme und nutzt einige der neuesten Hugo-Funktionen, um die Konfiguration zu vereinfachen.&lt;/p&gt;&#xA;&lt;p&gt;Das Theme wird mit einer Standardkonfiguration geliefert, die Sie mit einem einfachen Blog oder einer statischen Website zum Laufen bringt.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/de/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/docs/front-matter/</guid>
+      <description>&lt;p&gt;Zusätzlich zu den &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Standard-Hugo-Front-Matter-Parametern&lt;/a&gt; fügt Blowfish eine Reihe zusätzlicher Optionen hinzu, um die Darstellung einzelner Artikel anzupassen. Alle verfügbaren Theme-Front-Matter-Parameter sind unten aufgelistet.&lt;/p&gt;&#xA;&lt;p&gt;Die Standardwerte der Front-Matter-Parameter werden von der &lt;a href=&#34;http://localhost:1313/de/docs/configuration/&#34; &gt;Basiskonfiguration&lt;/a&gt; des Themes geerbt, sodass Sie diese Parameter nur in Ihrem Front Matter angeben müssen, wenn Sie die Standardwerte überschreiben möchten.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Mehrere Autoren</title>
+      <link>http://localhost:1313/de/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/docs/multi-author/</guid>
+      <description>&lt;p&gt;Einige Websites haben mehr als einen Autor, der Inhalte beisteuert, und benötigen daher mehr als einen einzelnen Standardautor für die gesamte Website. Für diese Anwendungsfälle ermöglicht Blowfish den Benutzern, die Liste der Autoren mithilfe der Funktion für mehrere Autoren zu erweitern.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Vorschaubilder</title>
+      <link>http://localhost:1313/de/docs/thumbnails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/docs/thumbnails/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Vorschaubilder&#xA;    &lt;div id=&#34;vorschaubilder&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#vorschaubilder&#34; aria-label=&#34;Anker&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Blowfish wurde erweitert, um das Hinzufügen visueller Unterstützung zu Ihren Beiträgen einfach zu machen. Dazu müssen Sie lediglich eine Bilddatei (fast alle Formate werden unterstützt, aber wir empfehlen &lt;code&gt;.png&lt;/code&gt; oder &lt;code&gt;.jpg&lt;/code&gt;), die mit &lt;code&gt;feature*&lt;/code&gt; beginnt, im Hauptverzeichnis Ihres Artikels platzieren, wie im folgenden Beispiel gezeigt.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

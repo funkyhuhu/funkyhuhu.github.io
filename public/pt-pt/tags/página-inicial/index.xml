@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Página Inicial on Blowfish</title>
+    <link>http://localhost:1313/pt-pt/tags/p%C3%A1gina-inicial/</link>
+    <description>Recent content in Página Inicial on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/pt-pt/tags/p%C3%A1gina-inicial/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Layout da Página Inicial</title>
+      <link>http://localhost:1313/pt-pt/docs/homepage-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/homepage-layout/</guid>
+      <description>&lt;p&gt;O Blowfish fornece um layout de página inicial totalmente flexível. Existem dois modelos principais para escolher com definições adicionais para ajustar o design. Alternativamente, também pode fornecer o seu próprio modelo e ter controlo total sobre o conteúdo da página inicial.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

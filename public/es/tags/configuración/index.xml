@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Configuración on Blowfish</title>
+    <link>http://localhost:1313/es/tags/configuraci%C3%B3n/</link>
+    <description>Recent content in Configuración on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/es/tags/configuraci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Configuración</title>
+      <link>http://localhost:1313/es/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/configuration/</guid>
+      <description>&lt;p&gt;Blowfish es un tema altamente personalizable y utiliza algunas de las últimas características de Hugo para simplificar su configuración.&lt;/p&gt;&#xA;&lt;p&gt;El tema viene con una configuración predeterminada que te permite empezar con un blog básico o sitio web estático.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/es/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/front-matter/</guid>
+      <description>&lt;p&gt;Además de los &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;parámetros de front matter predeterminados de Hugo&lt;/a&gt;, Blowfish añade varias opciones adicionales para personalizar la presentación de artículos individuales. Todos los parámetros de front matter del tema disponibles se enumeran a continuación.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>http://localhost:1313/es/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/multi-author/</guid>
+      <description>&lt;p&gt;Algunos sitios web tienen más de un autor contribuyendo con contenido y por lo tanto requieren más de un único autor predeterminado para todo el sitio. Para esos casos de uso, Blowfish permite a los usuarios extender la lista de autores usando la función de múltiples autores.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Miniaturas</title>
+      <link>http://localhost:1313/es/docs/thumbnails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/thumbnails/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Miniaturas&#xA;    &lt;div id=&#34;miniaturas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#miniaturas&#34; aria-label=&#34;Ancla&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Blowfish fue mejorado para facilitar añadir soporte visual a tus publicaciones. Para hacerlo, solo necesitas colocar un archivo de imagen (casi todos los formatos son soportados pero recomendamos &lt;code&gt;.png&lt;/code&gt; o &lt;code&gt;.jpg&lt;/code&gt;) que comience con &lt;code&gt;feature*&lt;/code&gt; dentro del directorio principal de tu artículo, como se muestra en el ejemplo de abajo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

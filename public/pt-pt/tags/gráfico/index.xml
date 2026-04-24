@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gráfico on Blowfish</title>
+    <link>http://localhost:1313/pt-pt/tags/gr%C3%A1fico/</link>
+    <description>Recent content in Gráfico on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/tags/gr%C3%A1fico/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Gráficos</title>
+      <link>http://localhost:1313/pt-pt/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/samples/charts/</guid>
+      <description>O Blowfish inclui Chart.js para gráficos e visualizações de dados poderosos.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

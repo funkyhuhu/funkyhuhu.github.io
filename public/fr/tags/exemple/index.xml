@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exemple on Blowfish</title>
+    <link>http://localhost:1313/fr/tags/exemple/</link>
+    <description>Recent content in Exemple on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/exemple/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exemples de contenu</title>
+      <link>http://localhost:1313/fr/docs/content-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/content-examples/</guid>
+      <description>&lt;p&gt;Si vous avez lu la documentation dans l&amp;rsquo;ordre, vous devriez maintenant connaître toutes les fonctionnalités et configurations disponibles dans Blowfish. Cette page est conçue pour tout rassembler et offrir quelques exemples pratiques que vous pourriez vouloir utiliser dans votre projet Hugo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Auteurs multiples</title>
+      <link>http://localhost:1313/fr/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/multiple-authors/</guid>
+      <description>Un exemple rapide de comment utiliser plusieurs auteurs.</description>
+      
+    </item>
+    
+    <item>
+      <title>Miniatures</title>
+      <link>http://localhost:1313/fr/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/thumbnail_sample/</guid>
+      <description>Un exemple rapide de comment commencer à utiliser les miniatures dans vos articles.</description>
+      
+    </item>
+    
+    <item>
+      <title>Icônes</title>
+      <link>http://localhost:1313/fr/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/icons/</guid>
+      <description>&lt;p&gt;Blowfish prend en charge nativement un certain nombre d&amp;rsquo;icônes &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Celles-ci peuvent être incluses dans votre site via le &lt;a href=&#34;http://localhost:1313/fr/docs/partials/#icon&#34; &gt;partial icon&lt;/a&gt; ou le &lt;a href=&#34;http://localhost:1313/fr/docs/shortcodes/#icon&#34; &gt;shortcode icon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;De plus, les icônes personnalisées sont entièrement prises en charge. Fournissez simplement vos propres assets d&amp;rsquo;icônes SVG en les plaçant dans le répertoire &lt;code&gt;assets/icons/&lt;/code&gt; à la racine de votre projet. Toutes les icônes du répertoire icons seront alors disponibles dans tout le thème. Pour obtenir le remplissage automatique des couleurs, chaque chemin SVG doit avoir l&amp;rsquo;attribut XML &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/fr/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/markdown/</guid>
+      <description>&lt;p&gt;Cet article propose un exemple de formatage Markdown de base utilisable dans Blowfish, et montre également comment certains éléments HTML de base sont décorés.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contenu riche</title>
+      <link>http://localhost:1313/fr/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/rich-content/</guid>
+      <description>Ceci est un &lt;em&gt;exemple&lt;/em&gt; de résumé de contenu &lt;strong&gt;riche&lt;/strong&gt;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Texte de remplissage</title>
+      <link>http://localhost:1313/fr/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Notation mathématique</title>
+      <link>http://localhost:1313/fr/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX peut être utilisé pour rendre la notation mathématique dans les articles.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diagrammes et organigrammes</title>
+      <link>http://localhost:1313/fr/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/diagrams-flowcharts/</guid>
+      <description>Il est facile d&amp;rsquo;ajouter des diagrammes et organigrammes aux articles avec Mermaid.</description>
+      
+    </item>
+    
+    <item>
+      <title>Graphiques</title>
+      <link>http://localhost:1313/fr/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/charts/</guid>
+      <description>Blowfish inclut Chart.js pour des graphiques et visualisations de données puissants.</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji :parachute:</title>
+      <link>http://localhost:1313/fr/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      
+    </item>
+    
+  </channel>
+</rss>

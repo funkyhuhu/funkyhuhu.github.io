@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Diagrama on Blowfish</title>
+    <link>http://localhost:1313/pt-pt/tags/diagrama/</link>
+    <description>Recent content in Diagrama on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 06 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-pt/tags/diagrama/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Diagramas e fluxogramas</title>
+      <link>http://localhost:1313/pt-pt/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/samples/diagrams-flowcharts/</guid>
+      <description>É fácil adicionar diagramas e fluxogramas aos artigos utilizando Mermaid.</description>
+      
+    </item>
+    
+    <item>
+      <title>Gráficos</title>
+      <link>http://localhost:1313/pt-pt/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/samples/charts/</guid>
+      <description>O Blowfish inclui Chart.js para gráficos e visualizações de dados poderosos.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

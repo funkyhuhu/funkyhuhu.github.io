@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Documentação on Blowfish</title>
+    <link>http://localhost:1313/pt-pt/tags/documenta%C3%A7%C3%A3o/</link>
+    <description>Recent content in Documentação on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/pt-pt/tags/documenta%C3%A7%C3%A3o/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Bem-vindo ao Blowfish</title>
+      <link>http://localhost:1313/pt-pt/docs/welcome/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/welcome/</guid>
+      <description>&lt;div class=&#34;lead text-neutral-500 dark:text-neutral-400 !mb-9 text-xl&#34;&gt;&#xA;  O Blowfish está repleto de funcionalidades.&#xA;&lt;/div&gt;&#xA;&#xA;&lt;p&gt;O objetivo original do Blowfish era desenvolver um tema simples e leve. O tema é um fork do &lt;a target=&#34;_blank&#34; href=&#34;https://github.com/nunocoracao/congo&#34;&gt;Congo&lt;/a&gt; e expande a sua visão inicial.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/welcome/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Instalação</title>
+      <link>http://localhost:1313/pt-pt/docs/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/installation/</guid>
+      <description>&lt;p&gt;Simplesmente siga o procedimento padrão do Hugo &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;Início Rápido&lt;/a&gt; para começar rapidamente.&lt;/p&gt;&#xA;&lt;p&gt;Instruções detalhadas de instalação podem ser encontradas abaixo. Instruções para &lt;a href=&#34;http://localhost:1313/pt-pt/docs/installation/#instalar-atualiza%c3%a7%c3%b5es&#34; &gt;atualizar o tema&lt;/a&gt; também estão disponíveis.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Instalação&#xA;    &lt;div id=&#34;instalação&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#instala%c3%a7%c3%a3o&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;Estas instruções irão ajudá-lo a começar com Hugo e Blowfish a partir de um estado completamente vazio. A maioria das dependências mencionadas neste guia pode ser instalada utilizando o gestor de pacotes da sua escolha para a sua plataforma.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/installation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Primeiros Passos</title>
+      <link>http://localhost:1313/pt-pt/docs/getting-started/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/getting-started/</guid>
+      <description>&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 512 512&#34;&gt;&lt;path fill=&#34;currentColor&#34; d=&#34;M506.3 417l-213.3-364c-16.33-28-57.54-28-73.98 0l-213.2 364C-10.59 444.9 9.849 480 42.74 480h426.6C502.1 480 522.6 445 506.3 417zM232 168c0-13.25 10.75-24 24-24S280 154.8 280 168v128c0 13.25-10.75 24-23.1 24S232 309.3 232 296V168zM256 416c-17.36 0-31.44-14.08-31.44-31.44c0-17.36 14.07-31.44 31.44-31.44s31.44 14.08 31.44 31.44C287.4 401.9 273.4 416 256 416z&#34;/&gt;&lt;/svg&gt;&#xA;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;Esta secção assume que já &lt;a href=&#34;http://localhost:1313/pt-pt/docs/installation/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;instalou o tema Blowfish&lt;/a&gt;.&lt;/span&gt;&#xA;&lt;/div&gt;&#xA;&#xA;&lt;/br&gt;&#xA;&#xA;  &#xA;&#xA;&#xA;&#xA;&lt;div&#xA;  &#xA;    class=&#34;flex px-4 py-3 rounded-md shadow bg-primary-100 dark:bg-primary-900&#34;&#xA;  &#xA;  &gt;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;text-primary-400 pe-3 flex items-center&#34;&#xA;    &#xA;    &gt;&#xA;    &lt;span class=&#34;relative block icon&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 448 512&#34;&gt;&#xA;&lt;path fill=&#34;currentColor&#34;  d=&#34;M159.3 5.4c7.8-7.3 19.9-7.2 27.7 .1c27.6 25.9 53.5 53.8 77.7 84c11-14.4 23.5-30.1 37-42.9c7.9-7.4 20.1-7.4 28 .1c34.6 33 63.9 76.6 84.5 118c20.3 40.8 33.8 82.5 33.8 111.9C448 404.2 348.2 512 224 512C98.4 512 0 404.1 0 276.5c0-38.4 17.8-85.3 45.4-131.7C73.3 97.7 112.7 48.6 159.3 5.4zM225.7 416c25.3 0 47.7-7 68.8-21c42.1-29.4 53.4-88.2 28.1-134.4c-2.8-5.6-5.6-11.2-9.8-16.8l-50.6 58.8s-81.4-103.6-87.1-110.6C133.1 243.8 112 273.2 112 306.8C112 375.4 162.6 416 225.7 416z&#34;/&gt;&lt;/svg&gt;&lt;/span&gt;&#xA;  &lt;/span&gt;&#xA;&#xA;  &lt;span&#xA;    &#xA;      class=&#34;dark:text-neutral-300&#34;&#xA;    &#xA;    &gt;&lt;p&gt;Acabámos de lançar uma ferramenta CLI para o ajudar a começar com o Blowfish. Irá ajudá-lo com a instalação e configuração. Instale a ferramenta CLI globalmente utilizando:&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/getting-started/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Configuração</title>
+      <link>http://localhost:1313/pt-pt/docs/configuration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/configuration/</guid>
+      <description>&lt;p&gt;O Blowfish é um tema altamente personalizável e utiliza algumas das funcionalidades mais recentes do Hugo para simplificar a sua configuração.&lt;/p&gt;&#xA;&lt;p&gt;O tema vem com uma configuração predefinida que lhe permite começar com um blogue básico ou site estático.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/configuration/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Layout da Página Inicial</title>
+      <link>http://localhost:1313/pt-pt/docs/homepage-layout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/homepage-layout/</guid>
+      <description>&lt;p&gt;O Blowfish fornece um layout de página inicial totalmente flexível. Existem dois modelos principais para escolher com definições adicionais para ajustar o design. Alternativamente, também pode fornecer o seu próprio modelo e ter controlo total sobre o conteúdo da página inicial.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/homepage-layout/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/pt-pt/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/shortcodes/</guid>
+      <description>&lt;p&gt;Para além de todos os &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;shortcodes predefinidos do Hugo&lt;/a&gt;, o Blowfish adiciona alguns extras para funcionalidades adicionais.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Alert&#xA;    &lt;div id=&#34;alert&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#alert&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;alert&lt;/code&gt; apresenta o seu conteúdo como uma caixa de mensagem estilizada dentro do seu artigo. É útil para chamar a atenção para informações importantes que não quer que o leitor perca.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/pt-pt/docs/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/front-matter/</guid>
+      <description>&lt;p&gt;Além dos &lt;a href=&#34;https://gohugo.io/content-management/front-matter/#front-matter-variables&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;parâmetros de front matter padrão do Hugo&lt;/a&gt;, o Blowfish adiciona várias opções adicionais para personalizar a apresentação de artigos individuais. Todos os parâmetros de front matter do tema disponíveis estão listados abaixo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/front-matter/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Múltiplos autores</title>
+      <link>http://localhost:1313/pt-pt/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/multi-author/</guid>
+      <description>&lt;p&gt;Alguns websites têm mais do que um autor a contribuir com conteúdo e, portanto, requerem mais do que um único autor predefinido para todo o site. Para esses casos de uso, o Blowfish permite aos utilizadores estender a lista de autores utilizando a funcionalidade de múltiplos autores.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>http://localhost:1313/pt-pt/docs/partials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/partials/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Analytics&#xA;    &lt;div id=&#34;analytics&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#analytics&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O Blowfish fornece suporte integrado para Fathom Analytics, Google Analytics e Umami Analytics. O Fathom é uma alternativa paga ao Google Analytics que respeita a privacidade do utilizador.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/partials/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Miniaturas</title>
+      <link>http://localhost:1313/pt-pt/docs/thumbnails/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/thumbnails/</guid>
+      <description>&lt;h2 class=&#34;relative group&#34;&gt;Miniaturas&#xA;    &lt;div id=&#34;miniaturas&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#miniaturas&#34; aria-label=&#34;Etiqueta&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;O Blowfish foi melhorado para facilitar adicionar suporte visual às suas publicações. Para fazer isso, só precisa de colocar um ficheiro de imagem (quase todos os formatos são suportados, mas recomendamos &lt;code&gt;.png&lt;/code&gt; ou &lt;code&gt;.jpg&lt;/code&gt;) que comece com &lt;code&gt;feature*&lt;/code&gt; dentro do diretório principal do seu artigo, como mostrado no exemplo abaixo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/thumbnails/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Séries</title>
+      <link>http://localhost:1313/pt-pt/docs/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/series/</guid>
+      <description>&lt;p&gt;O Blowfish fornece uma funcionalidade para agrupar um conjunto de artigos sob uma &amp;ldquo;série&amp;rdquo;. Colocar um artigo numa série apresentará os restantes artigos da série em cada página individual e fornecerá uma forma rápida de navegar entre eles. Pode ver um exemplo disso acima.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Personalização avançada</title>
+      <link>http://localhost:1313/pt-pt/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/advanced-customisation/</guid>
+      <description>&lt;p&gt;Existem muitas formas de fazer alterações avançadas ao Blowfish. Leia abaixo para saber mais sobre o que pode ser personalizado e a melhor forma de alcançar o resultado desejado.&lt;/p&gt;&#xA;&lt;p&gt;Se precisar de mais orientação, publique as suas perguntas nas &lt;a href=&#34;https://github.com/nunocoracao/blowfish/discussions&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;GitHub Discussions&lt;/a&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Alojamento e implementação</title>
+      <link>http://localhost:1313/pt-pt/docs/hosting-deployment/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-pt/docs/hosting-deployment/</guid>
+      <description>&lt;p&gt;Existem muitas formas de implementar o seu website Hugo construído com Blowfish. O tema é concebido para ser flexível em quase qualquer cenário de implementação.&lt;/p&gt;&#xA;&lt;p&gt;O Blowfish utiliza URLs relativos em todo o tema. Isto permite que os sites sejam facilmente implementados em subpastas e hosts como GitHub Pages. Normalmente não é necessária nenhuma configuração especial desde que o parâmetro &lt;code&gt;baseURL&lt;/code&gt; tenha sido configurado no ficheiro &lt;code&gt;hugo.toml&lt;/code&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/hosting-deployment/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

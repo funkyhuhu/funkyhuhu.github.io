@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Muestras on Blowfish</title>
+    <link>http://localhost:1313/es/samples/</link>
+    <description>Recent content in Muestras on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/samples/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>http://localhost:1313/es/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/multiple-authors/</guid>
+      <description>Un ejemplo rápido de cómo se podrían usar múltiples autores.</description>
+      
+    </item>
+    
+    <item>
+      <title>Miniaturas</title>
+      <link>http://localhost:1313/es/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/thumbnail_sample/</guid>
+      <description>Un ejemplo rápido de cómo empezar a usar miniaturas en tus artículos.</description>
+      
+    </item>
+    
+    <item>
+      <title>Iconos</title>
+      <link>http://localhost:1313/es/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/icons/</guid>
+      <description>&lt;p&gt;Blowfish tiene soporte integrado para varios iconos de &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Estos pueden incluirse en tu sitio web a través del &lt;a href=&#34;http://localhost:1313/es/docs/partials/#icon&#34; &gt;partial icon&lt;/a&gt; o el &lt;a href=&#34;http://localhost:1313/es/docs/shortcodes/#icon&#34; &gt;shortcode icon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Además, los iconos personalizados también son totalmente compatibles. Simplemente proporciona tus propios assets de iconos SVG colocándolos en el directorio &lt;code&gt;assets/icons/&lt;/code&gt; en la raíz de tu proyecto. Todos los iconos en el directorio de iconos estarán disponibles en todo el tema. Para lograr el relleno automático de color, cada ruta SVG necesita el atributo XML &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/es/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/markdown/</guid>
+      <description>&lt;p&gt;Este artículo ofrece una muestra del formato básico de Markdown que se puede usar en Blowfish, también muestra cómo se decoran algunos elementos HTML básicos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Contenido enriquecido</title>
+      <link>http://localhost:1313/es/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/rich-content/</guid>
+      <description>Este es un &lt;em&gt;ejemplo&lt;/em&gt; de un resumen de contenido &lt;strong&gt;enriquecido&lt;/strong&gt;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Texto de relleno</title>
+      <link>http://localhost:1313/es/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Notación matemática</title>
+      <link>http://localhost:1313/es/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX se puede usar para renderizar notación matemática dentro de los artículos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diagramas y diagramas de flujo</title>
+      <link>http://localhost:1313/es/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/diagrams-flowcharts/</guid>
+      <description>Es fácil agregar diagramas y diagramas de flujo a los artículos usando Mermaid.</description>
+      
+    </item>
+    
+    <item>
+      <title>Gráficos</title>
+      <link>http://localhost:1313/es/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/charts/</guid>
+      <description>Blowfish incluye Chart.js para gráficos y visualizaciones de datos potentes.</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji :parachute:</title>
+      <link>http://localhost:1313/es/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      
+    </item>
+    
+    <item>
+      <title>Un artículo externo</title>
+      <link>http://localhost:1313/es/samples/external/</link>
+      <pubDate>Thu, 24 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/external/</guid>
+      <description>El parámetro front matter &lt;code&gt;externalUrl&lt;/code&gt; puede enlazar a cualquier URL.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

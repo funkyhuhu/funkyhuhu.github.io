@@ -1,0 +1,483 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Blowfish</title>
+    <link>http://localhost:1313/de/tags/</link>
+    <description>Recent content in Tags on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Autoren</title>
+      <link>http://localhost:1313/de/tags/autoren/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/autoren/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Beispiel</title>
+      <link>http://localhost:1313/de/tags/beispiel/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/beispiel/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Thumbnail</title>
+      <link>http://localhost:1313/de/tags/thumbnail/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/thumbnail/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Icons</title>
+      <link>http://localhost:1313/de/tags/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/icons/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/de/tags/shortcodes/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/shortcodes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Css</title>
+      <link>http://localhost:1313/de/tags/css/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/css/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Html</title>
+      <link>http://localhost:1313/de/tags/html/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/html/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/de/tags/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/markdown/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Datenschutz</title>
+      <link>http://localhost:1313/de/tags/datenschutz/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/datenschutz/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Gist</title>
+      <link>http://localhost:1313/de/tags/gist/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/gist/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Twitter</title>
+      <link>http://localhost:1313/de/tags/twitter/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/twitter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vimeo</title>
+      <link>http://localhost:1313/de/tags/vimeo/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/vimeo/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Youtube</title>
+      <link>http://localhost:1313/de/tags/youtube/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/youtube/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Latein</title>
+      <link>http://localhost:1313/de/tags/latein/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/latein/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Text</title>
+      <link>http://localhost:1313/de/tags/text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/text/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Katex</title>
+      <link>http://localhost:1313/de/tags/katex/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/katex/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mathematik</title>
+      <link>http://localhost:1313/de/tags/mathematik/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/mathematik/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Diagramm</title>
+      <link>http://localhost:1313/de/tags/diagramm/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/diagramm/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Grafik</title>
+      <link>http://localhost:1313/de/tags/grafik/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/grafik/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Mermaid</title>
+      <link>http://localhost:1313/de/tags/mermaid/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/mermaid/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji</title>
+      <link>http://localhost:1313/de/tags/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/emoji/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Analytics</title>
+      <link>http://localhost:1313/de/tags/analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/analytics/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Aufrufe</title>
+      <link>http://localhost:1313/de/tags/aufrufe/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/aufrufe/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Bereitstellung</title>
+      <link>http://localhost:1313/de/tags/bereitstellung/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/bereitstellung/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Dokumentation</title>
+      <link>http://localhost:1313/de/tags/dokumentation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/dokumentation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Erweitert</title>
+      <link>http://localhost:1313/de/tags/erweitert/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/erweitert/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Favicons</title>
+      <link>http://localhost:1313/de/tags/favicons/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/favicons/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Firebase</title>
+      <link>http://localhost:1313/de/tags/firebase/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/firebase/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Fortgeschritten</title>
+      <link>http://localhost:1313/de/tags/advanced/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/advanced/</guid>
+      <description>&lt;p&gt;Dies ist das Tag &amp;ldquo;Fortgeschritten&amp;rdquo;. Genau wie bei anderen Auflistungsseiten in Blowfish können Sie benutzerdefinierten Inhalt zu einzelnen Taxonomiebegriffen hinzufügen, der oben in der Begriffsliste angezeigt wird.&lt;/p&gt;&#xA;&lt;p&gt;Sie können diese Inhaltsseiten auch verwenden, um Hugo-Metadaten wie Titel und Beschreibungen zu definieren, die für SEO und andere Zwecke verwendet werden.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Front Matter</title>
+      <link>http://localhost:1313/de/tags/front-matter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/front-matter/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Github</title>
+      <link>http://localhost:1313/de/tags/github/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/github/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Homepage</title>
+      <link>http://localhost:1313/de/tags/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/homepage/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>http://localhost:1313/de/tags/hosting/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/hosting/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Icon</title>
+      <link>http://localhost:1313/de/tags/icon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/icon/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Inhalt</title>
+      <link>http://localhost:1313/de/tags/inhalt/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/inhalt/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Installation</title>
+      <link>http://localhost:1313/de/tags/installation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/installation/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Kommentare</title>
+      <link>http://localhost:1313/de/tags/kommentare/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/kommentare/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Konfiguration</title>
+      <link>http://localhost:1313/de/tags/konfiguration/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/konfiguration/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Layouts</title>
+      <link>http://localhost:1313/de/tags/layouts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/layouts/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Lead</title>
+      <link>http://localhost:1313/de/tags/lead/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/lead/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Likes</title>
+      <link>http://localhost:1313/de/tags/likes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/likes/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Netlify</title>
+      <link>http://localhost:1313/de/tags/netlify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/netlify/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Neu</title>
+      <link>http://localhost:1313/de/tags/neu/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/neu/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Partials</title>
+      <link>http://localhost:1313/de/tags/partials/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/partials/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Render</title>
+      <link>http://localhost:1313/de/tags/render/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/render/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Serien</title>
+      <link>http://localhost:1313/de/tags/serien/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/serien/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Vorschaubild</title>
+      <link>http://localhost:1313/de/tags/vorschaubild/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/tags/vorschaubild/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

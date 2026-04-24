@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Iconos on Blowfish</title>
+    <link>http://localhost:1313/es/tags/iconos/</link>
+    <description>Recent content in Iconos on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/iconos/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Iconos</title>
+      <link>http://localhost:1313/es/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/icons/</guid>
+      <description>&lt;p&gt;Blowfish tiene soporte integrado para varios iconos de &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Estos pueden incluirse en tu sitio web a través del &lt;a href=&#34;http://localhost:1313/es/docs/partials/#icon&#34; &gt;partial icon&lt;/a&gt; o el &lt;a href=&#34;http://localhost:1313/es/docs/shortcodes/#icon&#34; &gt;shortcode icon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Además, los iconos personalizados también son totalmente compatibles. Simplemente proporciona tus propios assets de iconos SVG colocándolos en el directorio &lt;code&gt;assets/icons/&lt;/code&gt; en la raíz de tu proyecto. Todos los iconos en el directorio de iconos estarán disponibles en todo el tema. Para lograr el relleno automático de color, cada ruta SVG necesita el atributo XML &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

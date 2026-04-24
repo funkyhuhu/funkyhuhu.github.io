@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exemplo on Blowfish</title>
+    <link>http://localhost:1313/pt-br/tags/exemplo/</link>
+    <description>Recent content in Exemplo on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/exemplo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exemplos de conteúdo</title>
+      <link>http://localhost:1313/pt-br/docs/content-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/content-examples/</guid>
+      <description>&lt;p&gt;Se você está lendo a documentação em ordem, agora deve conhecer todos os recursos e configurações disponíveis no Blowfish. Esta página foi projetada para reunir tudo e oferecer alguns exemplos práticos que você pode querer usar em seu projeto Hugo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Múltiplos autores</title>
+      <link>http://localhost:1313/pt-br/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/multiple-authors/</guid>
+      <description>Um exemplo rápido de como múltiplos autores podem ser usados.</description>
+      
+    </item>
+    
+    <item>
+      <title>Miniaturas</title>
+      <link>http://localhost:1313/pt-br/samples/thumbnail_sample/</link>
+      <pubDate>Mon, 26 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/thumbnail_sample/</guid>
+      <description>Um exemplo rápido de como começar a usar miniaturas em seus artigos.</description>
+      
+    </item>
+    
+    <item>
+      <title>Ícones</title>
+      <link>http://localhost:1313/pt-br/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/icons/</guid>
+      <description>&lt;p&gt;O Blowfish tem suporte integrado para vários ícones do &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Estes podem ser incluídos no seu site através do &lt;a href=&#34;http://localhost:1313/pt-br/docs/partials/#icon&#34; &gt;partial icon&lt;/a&gt; ou do &lt;a href=&#34;http://localhost:1313/pt-br/docs/shortcodes/#icon&#34; &gt;shortcode icon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Além disso, ícones personalizados também são totalmente suportados. Simplesmente forneça seus próprios assets de ícones SVG colocando-os no diretório &lt;code&gt;assets/icons/&lt;/code&gt; na raiz do seu projeto. Todos os ícones no diretório de ícones estarão disponíveis em todo o tema. Para obter o preenchimento automático de cor, cada caminho SVG precisa do atributo XML &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/pt-br/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/markdown/</guid>
+      <description>&lt;p&gt;Este artigo oferece uma amostra da formatação básica de Markdown que pode ser usada no Blowfish, também mostra como alguns elementos HTML básicos são decorados.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Conteúdo rico</title>
+      <link>http://localhost:1313/pt-br/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/rich-content/</guid>
+      <description>Este é um &lt;em&gt;exemplo&lt;/em&gt; de um resumo de conteúdo &lt;strong&gt;rico&lt;/strong&gt;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Texto de preenchimento</title>
+      <link>http://localhost:1313/pt-br/samples/placeholder-text/</link>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/placeholder-text/</guid>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Notação matemática</title>
+      <link>http://localhost:1313/pt-br/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX pode ser usado para renderizar notação matemática dentro dos artigos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diagramas e fluxogramas</title>
+      <link>http://localhost:1313/pt-br/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/diagrams-flowcharts/</guid>
+      <description>É fácil adicionar diagramas e fluxogramas aos artigos usando Mermaid.</description>
+      
+    </item>
+    
+    <item>
+      <title>Gráficos</title>
+      <link>http://localhost:1313/pt-br/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/charts/</guid>
+      <description>O Blowfish inclui Chart.js para gráficos e visualizações de dados poderosos.</description>
+      
+    </item>
+    
+    <item>
+      <title>Emoji :parachute:</title>
+      <link>http://localhost:1313/pt-br/samples/emoji/</link>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/emoji/</guid>
+      <description>📖🏞️🧗🏽🐉🧙🏽‍♂️🧚🏽👸</description>
+      
+    </item>
+    
+  </channel>
+</rss>

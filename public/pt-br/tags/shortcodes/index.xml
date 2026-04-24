@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shortcodes on Blowfish</title>
+    <link>http://localhost:1313/pt-br/tags/shortcodes/</link>
+    <description>Recent content in Shortcodes on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 09 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/shortcodes/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Shortcodes</title>
+      <link>http://localhost:1313/pt-br/docs/shortcodes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/shortcodes/</guid>
+      <description>&lt;p&gt;Além de todos os &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;shortcodes padrão do Hugo&lt;/a&gt;, o Blowfish adiciona alguns extras para funcionalidades adicionais.&lt;/p&gt;&#xA;&#xA;&lt;h2 class=&#34;relative group&#34;&gt;Alert&#xA;    &lt;div id=&#34;alert&#34; class=&#34;anchor&#34;&gt;&lt;/div&gt;&#xA;    &#xA;    &lt;span&#xA;        class=&#34;absolute top-0 w-6 transition-opacity opacity-0 -start-6 not-prose group-hover:opacity-100 select-none&#34;&gt;&#xA;        &lt;a class=&#34;text-primary-300 dark:text-neutral-700 !no-underline&#34; href=&#34;#alert&#34; aria-label=&#34;Âncora&#34;&gt;#&lt;/a&gt;&#xA;    &lt;/span&gt;&#xA;    &#xA;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;code&gt;alert&lt;/code&gt; exibe seu conteúdo como uma caixa de mensagem estilizada dentro do seu artigo. É útil para chamar a atenção para informações importantes que você não quer que o leitor perca.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/shortcodes/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Ícones</title>
+      <link>http://localhost:1313/pt-br/samples/icons/</link>
+      <pubDate>Fri, 14 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/icons/</guid>
+      <description>&lt;p&gt;O Blowfish tem suporte integrado para vários ícones do &lt;a href=&#34;https://fontawesome.com/icons&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;FontAwesome 6&lt;/a&gt;. Estes podem ser incluídos no seu site através do &lt;a href=&#34;http://localhost:1313/pt-br/docs/partials/#icon&#34; &gt;partial icon&lt;/a&gt; ou do &lt;a href=&#34;http://localhost:1313/pt-br/docs/shortcodes/#icon&#34; &gt;shortcode icon&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Além disso, ícones personalizados também são totalmente suportados. Simplesmente forneça seus próprios assets de ícones SVG colocando-os no diretório &lt;code&gt;assets/icons/&lt;/code&gt; na raiz do seu projeto. Todos os ícones no diretório de ícones estarão disponíveis em todo o tema. Para obter o preenchimento automático de cor, cada caminho SVG precisa do atributo XML &lt;code&gt;fill=&amp;quot;currentColor&amp;quot;&lt;/code&gt;.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Conteúdo rico</title>
+      <link>http://localhost:1313/pt-br/samples/rich-content/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/rich-content/</guid>
+      <description>Este é um &lt;em&gt;exemplo&lt;/em&gt; de um resumo de conteúdo &lt;strong&gt;rico&lt;/strong&gt;.</description>
+      
+    </item>
+    
+    <item>
+      <title>Notação matemática</title>
+      <link>http://localhost:1313/pt-br/samples/mathematical-notation/</link>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/mathematical-notation/</guid>
+      <description>&lt;p&gt;KaTeX pode ser usado para renderizar notação matemática dentro dos artigos.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Diagramas e fluxogramas</title>
+      <link>http://localhost:1313/pt-br/samples/diagrams-flowcharts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/diagrams-flowcharts/</guid>
+      <description>É fácil adicionar diagramas e fluxogramas aos artigos usando Mermaid.</description>
+      
+    </item>
+    
+    <item>
+      <title>Gráficos</title>
+      <link>http://localhost:1313/pt-br/samples/charts/</link>
+      <pubDate>Wed, 06 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/charts/</guid>
+      <description>O Blowfish inclui Chart.js para gráficos e visualizações de dados poderosos.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

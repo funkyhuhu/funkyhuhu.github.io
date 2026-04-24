@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Blowfish</title>
+    <link>http://localhost:1313/pt-br/tags/css/</link>
+    <description>Recent content in Css on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/pt-br/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personalização avançada</title>
+      <link>http://localhost:1313/pt-br/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/advanced-customisation/</guid>
+      <description>&lt;p&gt;Existem muitas maneiras de fazer alterações avançadas no Blowfish. Leia abaixo para saber mais sobre o que pode ser personalizado e a melhor forma de alcançar o resultado desejado.&lt;/p&gt;&#xA;&lt;p&gt;Se precisar de mais orientação, poste suas perguntas nas &lt;a href=&#34;https://github.com/nunocoracao/blowfish/discussions&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;GitHub Discussions&lt;/a&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/pt-br/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/samples/markdown/</guid>
+      <description>&lt;p&gt;Este artigo oferece uma amostra da formatação básica de Markdown que pode ser usada no Blowfish, também mostra como alguns elementos HTML básicos são decorados.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

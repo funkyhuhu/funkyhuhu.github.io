@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Html on Blowfish</title>
+    <link>http://localhost:1313/es/tags/html/</link>
+    <description>Recent content in Html on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/es/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/markdown/</guid>
+      <description>&lt;p&gt;Este artículo ofrece una muestra del formato básico de Markdown que se puede usar en Blowfish, también muestra cómo se decoran algunos elementos HTML básicos.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

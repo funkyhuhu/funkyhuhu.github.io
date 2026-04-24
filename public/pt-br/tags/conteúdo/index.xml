@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Conteúdo on Blowfish</title>
+    <link>http://localhost:1313/pt-br/tags/conte%C3%BAdo/</link>
+    <description>Recent content in Conteúdo on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-br</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/pt-br/tags/conte%C3%BAdo/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Exemplos de conteúdo</title>
+      <link>http://localhost:1313/pt-br/docs/content-examples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pt-br/docs/content-examples/</guid>
+      <description>&lt;p&gt;Se você está lendo a documentação em ordem, agora deve conhecer todos os recursos e configurações disponíveis no Blowfish. Esta página foi projetada para reunir tudo e oferecer alguns exemplos práticos que você pode querer usar em seu projeto Hugo.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/content-examples/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

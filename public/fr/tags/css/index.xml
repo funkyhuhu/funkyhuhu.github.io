@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Css on Blowfish</title>
+    <link>http://localhost:1313/fr/tags/css/</link>
+    <description>Recent content in Css on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/fr/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personnalisation avancée</title>
+      <link>http://localhost:1313/fr/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/docs/advanced-customisation/</guid>
+      <description>&lt;p&gt;Il existe de nombreuses façons d&amp;rsquo;apporter des modifications avancées à Blowfish. Lisez ci-dessous pour en savoir plus sur ce qui peut être personnalisé et la meilleure façon d&amp;rsquo;atteindre le résultat souhaité.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>http://localhost:1313/fr/samples/markdown/</link>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/fr/samples/markdown/</guid>
+      <description>&lt;p&gt;Cet article propose un exemple de formatage Markdown de base utilisable dans Blowfish, et montre également comment certains éléments HTML de base sont décorés.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

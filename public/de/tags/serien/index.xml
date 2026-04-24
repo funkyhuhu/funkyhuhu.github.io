@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Serien on Blowfish</title>
+    <link>http://localhost:1313/de/tags/serien/</link>
+    <description>Recent content in Serien on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/de/tags/serien/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Serien</title>
+      <link>http://localhost:1313/de/docs/series/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/docs/series/</guid>
+      <description>&lt;p&gt;Blowfish bietet eine Funktion, um mehrere Artikel unter einer &amp;ldquo;Serie&amp;rdquo; zu gruppieren. Das Platzieren eines Artikels in einer Serie zeigt die restlichen Artikel der Serie auf jeder Einzelseite an und ermöglicht eine schnelle Navigation zwischen ihnen. Sie können ein Beispiel dafür oben sehen.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/series/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

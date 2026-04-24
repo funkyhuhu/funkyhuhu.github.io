@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Avanzado on Blowfish</title>
+    <link>http://localhost:1313/es/tags/avanzado/</link>
+    <description>Recent content in Avanzado on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <atom:link href="http://localhost:1313/es/tags/avanzado/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Personalización avanzada</title>
+      <link>http://localhost:1313/es/docs/advanced-customisation/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/advanced-customisation/</guid>
+      <description>&lt;p&gt;Hay muchas formas de hacer cambios avanzados a Blowfish. Lee a continuación para aprender más sobre qué se puede personalizar y la mejor manera de lograr el resultado deseado.&lt;/p&gt;&#xA;&lt;p&gt;Si necesitas más consejos, publica tus preguntas en &lt;a href=&#34;https://github.com/nunocoracao/blowfish/discussions&#34;  target=&#34;_blank&#34; rel=&#34;noreferrer&#34;&gt;GitHub Discussions&lt;/a&gt;.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/advanced-customisation/featured.svg" />
+    </item>
+    
+  </channel>
+</rss>

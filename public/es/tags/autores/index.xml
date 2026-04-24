@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Autores on Blowfish</title>
+    <link>http://localhost:1313/es/tags/autores/</link>
+    <description>Recent content in Autores on Blowfish</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <copyright>© 2026 Blowfish</copyright>
+    <lastBuildDate>Wed, 12 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/es/tags/autores/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>http://localhost:1313/es/docs/multi-author/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/docs/multi-author/</guid>
+      <description>&lt;p&gt;Algunos sitios web tienen más de un autor contribuyendo con contenido y por lo tanto requieren más de un único autor predeterminado para todo el sitio. Para esos casos de uso, Blowfish permite a los usuarios extender la lista de autores usando la función de múltiples autores.&lt;/p&gt;</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/docs/multi-author/featured.svg" />
+    </item>
+    
+    <item>
+      <title>Múltiples autores</title>
+      <link>http://localhost:1313/es/samples/multiple-authors/</link>
+      <pubDate>Wed, 12 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/es/samples/multiple-authors/</guid>
+      <description>Un ejemplo rápido de cómo se podrían usar múltiples autores.</description>
+      
+    </item>
+    
+  </channel>
+</rss>
