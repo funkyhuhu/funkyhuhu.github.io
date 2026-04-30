@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Leia&#39;s Notes</title>
+    <link>https://localhost:1313/en/tags/</link>
+    <description>Recent content in Tags on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/en/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Deployment</title>
+      <link>https://localhost:1313/en/tags/deployment/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/tags/deployment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>https://localhost:1313/en/tags/networking/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/tags/networking/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://localhost:1313/en/tags/programming/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/tags/programming/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

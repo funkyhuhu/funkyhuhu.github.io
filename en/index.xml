@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Leia&#39;s Notes</title>
+    <link>https://localhost:1313/en/</link>
+    <description>Recent content on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers</title>
+      <link>https://localhost:1313/en/posts/network-basics/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/posts/network-basics/</guid>
+      <description>&lt;p&gt;When developing or deploying projects, we often run into questions like &amp;ldquo;Why does it work on localhost but not over the internet?&amp;rdquo; or &amp;ldquo;How do machines talk to each other on a local network?&amp;rdquo; Understanding how network communication works isn&amp;rsquo;t just for acing interviews; it&amp;rsquo;s essential for securing your devices and optimizing deployment architectures. This article will deconstruct the flow of network packets, starting from the outermost layer: the ISP.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

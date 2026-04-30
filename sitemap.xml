@@ -4,63 +4,14 @@
   <sitemap>
     <loc>https://localhost:1313/en/sitemap.xml</loc>
     
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+      <lastmod>2026-04-30T16:00:00+08:00</lastmod>
     
   </sitemap>
   
   <sitemap>
-    <loc>https://localhost:1313/fr/sitemap.xml</loc>
+    <loc>https://localhost:1313/zh-tw/sitemap.xml</loc>
     
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/de/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/it/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/pt-pt/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/es/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/pt-br/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/ja/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>https://localhost:1313/zh-cn/sitemap.xml</loc>
-    
-      <lastmod>2023-10-04T00:00:00+00:00</lastmod>
+      <lastmod>2026-04-30T16:00:00+08:00</lastmod>
     
   </sitemap>
   

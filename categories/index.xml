@@ -5,31 +5,9 @@
     <link>https://localhost:1313/categories/</link>
     <description>Recent content in Categories on Leia&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
-    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <language>zh-tw</language>
     <copyright>© 2026 Leia</copyright>
-    <lastBuildDate>Wed, 04 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
-    
-    <item>
-      <title>Blowfish</title>
-      <link>https://localhost:1313/categories/blowfish/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>daodao0988@gmail.com (Leia)</author>
-      <guid>https://localhost:1313/categories/blowfish/</guid>
-      <description></description>
-      
-    </item>
-    
-    <item>
-      <title>Open-Source</title>
-      <link>https://localhost:1313/categories/open-source/</link>
-      <pubDate>Wed, 04 Oct 2023 00:00:00 +0000</pubDate>
-      <author>daodao0988@gmail.com (Leia)</author>
-      <guid>https://localhost:1313/categories/open-source/</guid>
-      <description></description>
-      
-    </item>
+    <atom:link href="https://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
