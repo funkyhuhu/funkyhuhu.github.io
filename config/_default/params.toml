@@ -1,5 +1,5 @@
 colorScheme = "noir"
-defaultAppearance = "dark"
+defaultAppearance = "light"
 autoSwitchAppearance = true
 enableA11y = false
 enableSearch = true
@@ -10,8 +10,8 @@ mainSections = [ "posts" ]
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
-defaultBackgroundImage = "/img/background.svg"
-defaultFeaturedImage = "/img/featured.svg"
+defaultBackgroundImage = "bg.png"
+defaultFeaturedImage = "/img/lavalamp.svg"
 defaultSocialImage = "logo_moon.png"
 hotlinkFeatureImage = false
 highlightCurrentMenuArea = true
@@ -45,6 +45,7 @@ cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
 disableHeroImageFilter = false
+homepageImage = "bg.png"
 
 [article]
 showDate = false

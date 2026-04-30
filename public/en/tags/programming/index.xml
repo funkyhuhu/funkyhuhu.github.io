@@ -21,5 +21,15 @@
       
     </item>
     
+    <item>
+      <title>Streamlining Docker Compose YAML: Using Anchors and Aliases</title>
+      <link>http://localhost:1313/en/posts/docker-compose-optimization-guide/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/docker-compose-optimization-guide/</guid>
+      <description>&lt;p&gt;When maintaining complex Docker Compose projects, it is common to encounter scenarios where multiple services share the same image, networks, or environment variables. Manually writing out the configuration for every service not only leads to bloated files but also increases the risk of missing an update when changes are required.&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>

@@ -9,10 +9,11 @@ title = "Leia's Notes"
   rtl = false
   dateFormat = "2006-01-02"
   logo = "logo_moon.png"
-  description = "一些生活的觀察與日常的記錄。"
+  description = "Scribbles on software, thoughts, and everyday life."
 
 [params.author]
   name = "Leia"
+  email = "daodao0988@gmail.com"
   image = "logo_moon.png"
-  headline = "一些生活的觀察與日常的記錄。"
+  headline = "SWE | Build · Breathe · Live"
 

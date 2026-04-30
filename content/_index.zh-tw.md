@@ -1,6 +1,6 @@
 ---
 title: "Leia 的筆記"
-description: "以中文與英文撰寫的個人筆記。"
+description: "SWE | Build · Breathe · Live"
 ---
 
-歡迎來到我的部落格。
+Scribbles on software, thoughts, and everyday life.

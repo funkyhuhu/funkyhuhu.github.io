@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docker Compose on Leia&#39;s Notes</title>
+    <link>http://localhost:1313/en/tags/docker-compose/</link>
+    <description>Recent content in Docker Compose on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/tags/docker-compose/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Streamlining Docker Compose YAML: Using Anchors and Aliases</title>
+      <link>http://localhost:1313/en/posts/docker-compose-optimization-guide/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/docker-compose-optimization-guide/</guid>
+      <description>&lt;p&gt;When maintaining complex Docker Compose projects, it is common to encounter scenarios where multiple services share the same image, networks, or environment variables. Manually writing out the configuration for every service not only leads to bloated files but also increases the risk of missing an update when changes are required.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

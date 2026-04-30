@@ -6,6 +6,8 @@
     <description>Recent content in Leia 的筆記 on Leia&#39;s Notes</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
     <copyright>© 2026 Leia</copyright>
     <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
@@ -13,19 +15,19 @@
       <title>從 ISP 到內網安全：軟體工程師必備的網路通訊全攻略</title>
       <link>http://localhost:1313/posts/network-basics/</link>
       <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
-      
+      <author>daodao0988@gmail.com (Leia)</author>
       <guid>http://localhost:1313/posts/network-basics/</guid>
       <description>&lt;p&gt;在開發與部署專案時，我們常會遇到「為什麼本機可以，連到外網就不行？」或「內網機器如何互相溝通？」等問題。理解網路通訊的運作，不只是為了應付面試，更是為了保護設備安全與優化部署架構。本文將從最外層的 ISP 開始，逐步拆解網路封包的流向。&lt;/p&gt;</description>
       
     </item>
     
     <item>
-      <title>關於我</title>
-      <link>http://localhost:1313/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/about/about/</guid>
-      <description>&lt;p&gt;這裡簡單介紹本站與作者。&lt;/p&gt;</description>
+      <title>精簡 Docker Compose YAML：使用 Anchors (錨點) 與 Aliases (別名)</title>
+      <link>http://localhost:1313/posts/docker-compose-optimization-guide/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/posts/docker-compose-optimization-guide/</guid>
+      <description>&lt;p&gt;在維護複雜的 Docker Compose 專案時，我們常會遇到「多個服務使用相同映像檔、網路或環境變數」的情況。&#xA;如果每個服務都手寫一遍配置，不僅檔案變得臃腫，未來修改時也容易漏掉其中一項。&lt;/p&gt;</description>
       
     </item>
     

@@ -15,6 +15,22 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://localhost:1313/en/tags/docker/</loc>
+    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/tags/docker/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/docker/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/posts/network-basics/</loc>
     <lastmod>2026-04-30T16:00:00+08:00</lastmod>
     <changefreq>always</changefreq>
@@ -91,6 +107,22 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/en/posts/docker-compose-optimization-guide/</loc>
+    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/posts/docker-compose-optimization-guide/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/docker-compose-optimization-guide/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/tags/</loc>
     <lastmod>2026-04-30T16:00:00+08:00</lastmod>
     <changefreq>always</changefreq>
@@ -104,6 +136,21 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/tags/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/about/</loc>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/about/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/about/"
     />
   </url>
   <url>
