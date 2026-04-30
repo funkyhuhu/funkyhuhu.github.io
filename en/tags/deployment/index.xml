@@ -12,6 +12,16 @@
     <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/en/tags/deployment/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>From 1.5GB to 300MB: A Practical Guide to Dockerfile Slimming and Multi-Stage Builds</title>
+      <link>https://localhost:1313/en/posts/docker-image-optimization/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/posts/docker-image-optimization/</guid>
+      <description>&lt;p&gt;During backend development, have you ever noticed that even though your code is only a few MBs, the compiled Docker image ends up exceeding 1.5GB?&lt;/p&gt;&#xA;&lt;p&gt;Not only does this waste disk space, but it also turns every deployment to GCP or AWS into a &amp;ldquo;coffee break&amp;rdquo; while waiting for the image to upload. In this post, I’ll share how I reduced my image size by 80% without sacrificing the convenience of my local development environment.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
       <title>From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers</title>
       <link>https://localhost:1313/en/posts/network-basics/</link>
       <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
