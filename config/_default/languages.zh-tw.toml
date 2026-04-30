@@ -1,0 +1,18 @@
+locale = "zh-tw"
+label = "繁體中文"
+weight = 9
+title = "Leia's Notes"
+
+[params]
+  displayName = "繁體中文"
+  isoCode = "zh-tw"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "logo_moon.png"
+  description = "一些生活的觀察與日常的記錄。"
+
+[params.author]
+  name = "Leia"
+  image = "logo_moon.png"
+  headline = "一些生活的觀察與日常的記錄。"
+

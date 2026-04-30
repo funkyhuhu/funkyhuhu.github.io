@@ -11,20 +11,7 @@ dateFormat = "2 January 2006"
 logo = "logo_moon.png"
 description = "A powerful, lightweight theme for Hugo."
 
-  [params.author]
-  name = "Blowfish"
-  email = "nuno@n9o.xyz"
-  image = "img/blowfish_logo.png"
-  headline = "A powerful, lightweight theme for Hugo."
-  bio = "A powerful, lightweight theme for Hugo."
-
-    [[params.author.links]]
-    x-twitter = "https://twitter.com/burufugu"
-
-    [[params.author.links]]
-    github = "https://github.com/nunocoracao/blowfish"
-
-["params.author"]
+[params.author]
 name = "Leia"
 email = "daodao0988@gmail.com"
 image = "logo_moon.png"

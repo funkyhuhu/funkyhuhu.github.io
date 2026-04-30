@@ -6,7 +6,7 @@ enableSearch = true
 enableCodeCopy = true
 enableStructuredBreadcrumbs = true
 replyByEmail = false
-mainSections = [ "docs" ]
+mainSections = [ "posts" ]
 disableImageOptimization = false
 disableImageOptimizationMD = false
 disableTextInHeader = false
@@ -31,7 +31,7 @@ layout = "fixed"
 [footer]
 showMenu = true
 showCopyright = true
-showThemeAttribution = true
+showThemeAttribution = false
 showAppearanceSwitcher = true
 showScrollToTop = true
 
@@ -40,7 +40,7 @@ layout = "custom"
 showRecent = false
 showRecentItems = 12
 showMoreLink = true
-showMoreLinkDest = "docs"
+showMoreLinkDest = "posts"
 cardView = true
 cardViewScreenWidth = false
 layoutBackgroundBlur = true
@@ -48,7 +48,7 @@ disableHeroImageFilter = false
 
 [article]
 showDate = false
-showViews = true
+showViews = false
 showLikes = false
 showDateOnlyInArticle = false
 showDateUpdated = false
@@ -59,7 +59,7 @@ layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = true
 showDraftLabel = true
-showEdit = true
+showEdit = false
 editURL = "https://github.com/nunocoracao/blowfish/tree/main/exampleSite/content"
 editAppendPath = true
 seriesOpened = false
@@ -138,7 +138,7 @@ appId = "1:60108104191:web:039842ebe1370698b487ca"
 measurementId = "G-PEDMYR1V0K"
 
 [buymeacoffee]
-identifier = "nunocoracao"
+identifier = "Leia"
 globalWidget = true
 globalWidgetMessage = ""
 globalWidgetColor = "#FFDD00"

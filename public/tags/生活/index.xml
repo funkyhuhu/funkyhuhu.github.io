@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>生活 on Leia&#39;s Notes</title>
+    <link>http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/</link>
+    <description>Recent content in 生活 on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%94%9F%E6%B4%BB/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>我的第一篇文章</title>
+      <link>http://localhost:1313/docs/getting-started-post/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/getting-started-post/</guid>
+      <description>&lt;p&gt;這是文章內文範例。&lt;/p&gt;&#xA;&lt;p&gt;你可以直接把這段改成自己的內容，儲存後重新啟動或刷新 Hugo 頁面即可看到更新。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

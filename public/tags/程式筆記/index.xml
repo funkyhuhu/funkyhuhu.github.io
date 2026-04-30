@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程式筆記 on Leia&#39;s Notes</title>
+    <link>http://localhost:1313/tags/%E7%A8%8B%E5%BC%8F%E7%AD%86%E8%A8%98/</link>
+    <description>Recent content in 程式筆記 on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E7%A8%8B%E5%BC%8F%E7%AD%86%E8%A8%98/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>內網、端口與 DNS 安全攻略</title>
+      <link>http://localhost:1313/docs/getting-started-post/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      
+      <guid>http://localhost:1313/docs/getting-started-post/</guid>
+      <description>&lt;p&gt;在日常生活中，我們的電腦和手機經常連接到 Wi-Fi 或 4G/5G，但大部分人對 內網通信、端口開放、廣播以及 DNS 的運作 都不熟悉。理解這些概念不僅能保護自己的設備，部署時專案時更是不可忽略的基礎資安。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -4,8 +4,8 @@
 
 theme = "blowfish"
 baseURL = "https://localhost:1313"
-defaultContentLanguage = "en"
-disableLanguages = [] #to allow translation work requiring shipping to production
+defaultContentLanguage = "zh-tw"
+disableLanguages = ["de", "es", "fr", "it", "ja", "pt-br", "pt-pt"]
 
 # pluralizeListTitles = "true" # hugo function useful for non-english languages, find out more in  https://gohugo.io/getting-started/configuration/#pluralizelisttitles
 
@@ -70,7 +70,7 @@ googleAnalytics = "G-PEDMYR1V0K"
       type = 'fragments'
       weight = 10
 
-# Render only specific parts of the site for faster development. 
+# Render only specific parts of the site for faster development.
 # Note that there are more files are ignored in development/hugo.toml
 #
 # Usage: `hugo --renderSegments core` or `hugo --renderSegments core,en_only`
