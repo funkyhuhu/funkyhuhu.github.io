@@ -9,14 +9,24 @@
     <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
     <webMaster>daodao0988@gmail.com (Leia)</webMaster>
     <copyright>© 2026 Leia</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/en/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Deployment</title>
       <link>https://localhost:1313/en/series/deployment/</link>
-      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
       <author>daodao0988@gmail.com (Leia)</author>
       <guid>https://localhost:1313/en/series/deployment/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>https://localhost:1313/en/series/programming/</link>
+      <pubDate>Fri, 01 May 2026 04:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/series/programming/</guid>
       <description></description>
       
     </item>

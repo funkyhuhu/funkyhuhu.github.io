@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CI/CD on Leia&#39;s Notes</title>
+    <link>https://localhost:1313/tags/ci/cd/</link>
+    <description>Recent content in CI/CD on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/tags/ci/cd/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>用 GitHub Actions &#43; Docker 打造可 rollback 的 CI/CD：從 build image 到 production deploy 的實戰思考</title>
+      <link>https://localhost:1313/posts/auto-cicd/</link>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/posts/auto-cicd/</guid>
+      <description>&lt;p&gt;在軟體開發中，寫 Code 往往不是最難的，「如何確保寫好的 Code 穩定地跑在 Server 上」才是真正的挑戰。&#xA;這次我做的不是「把網站丟上 server」而已，而是把一條完整的部署路徑整理成可以反覆使用的流程：&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

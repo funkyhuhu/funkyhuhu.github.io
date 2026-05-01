@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>程式 on Leia&#39;s Notes</title>
+    <link>https://localhost:1313/series/%E7%A8%8B%E5%BC%8F/</link>
+    <description>Recent content in 程式 on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Fri, 01 May 2026 04:00:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/series/%E7%A8%8B%E5%BC%8F/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>為什麼我捨棄 Nginx 選擇 Traefik？雲端部署的自動化與開發環境解構</title>
+      <link>https://localhost:1313/posts/nginx-vs-traefik/</link>
+      <pubDate>Fri, 01 May 2026 04:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/posts/nginx-vs-traefik/</guid>
+      <description>&lt;p&gt;在處理 GCP VM 部署時，最直覺的作法通常是裝個 Nginx 做 Reverse Proxy，再手動申請 Let’s Encrypt。&#xA;但當專案需要頻繁更迭、且必須兼顧「本地開發體驗」與「雲端自動化」時，傳統的做法顯得過於笨重。&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
