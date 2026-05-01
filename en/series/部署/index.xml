@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>部署 on Leia&#39;s Notes</title>
+    <link>https://localhost:1313/en/series/%E9%83%A8%E7%BD%B2/</link>
+    <description>Recent content in 部署 on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Fri, 01 May 2026 04:00:00 +0800</lastBuildDate><atom:link href="https://localhost:1313/en/series/%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Why I Swapped Nginx for Traefik: Deconstructing Cloud Automation and Development Environments</title>
+      <link>https://localhost:1313/en/posts/nginx-vs-traefik/</link>
+      <pubDate>Fri, 01 May 2026 04:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>https://localhost:1313/en/posts/nginx-vs-traefik/</guid>
+      <description>&lt;p&gt;When handling GCP VM deployments, the most intuitive approach is usually installing Nginx as a Reverse Proxy and manually applying for Let’s Encrypt certificates. However, when a project requires frequent iterations and must balance &amp;ldquo;local development experience&amp;rdquo; with &amp;ldquo;cloud automation,&amp;rdquo; this traditional method feels overly cumbersome.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
