@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>自動化部署 on Leia&#39;s Notes</title>
+    <link>http://localhost:1313/tags/%E8%87%AA%E5%8B%95%E5%8C%96%E9%83%A8%E7%BD%B2/</link>
+    <description>Recent content in 自動化部署 on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/tags/%E8%87%AA%E5%8B%95%E5%8C%96%E9%83%A8%E7%BD%B2/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>用 GitHub Actions &#43; Docker 打造可 rollback 的 CI/CD：從 build image 到 production deploy 的實戰思考</title>
+      <link>http://localhost:1313/posts/auto-cicd/</link>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/posts/auto-cicd/</guid>
+      <description></description>
+      
+    </item>
+    
+  </channel>
+</rss>

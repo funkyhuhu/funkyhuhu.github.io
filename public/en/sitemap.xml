@@ -3,20 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
+    <loc>http://localhost:1313/en/posts/auto-cicd/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/posts/auto-cicd/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/auto-cicd/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/ci/cd/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/tags/ci/cd/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/ci/cd/"
+    />
+  </url>
+  <url>
     <loc>http://localhost:1313/en/series/deployment/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/deployment/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/en/tags/docker/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
     <xhtml:link
@@ -28,6 +60,146 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/tags/docker/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/posts/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/programming/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/series/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/series/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/series/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/tags/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/nginx/</loc>
+    <lastmod>2026-05-01T04:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/tags/nginx/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/nginx/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/series/programming/</loc>
+    <lastmod>2026-05-01T04:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/tags/traefik/</loc>
+    <lastmod>2026-05-01T04:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/tags/traefik/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/tags/traefik/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/posts/nginx-vs-traefik/</loc>
+    <lastmod>2026-05-01T04:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/posts/nginx-vs-traefik/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/nginx-vs-traefik/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/en/posts/docker-image-optimization/</loc>
+    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/posts/docker-image-optimization/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/posts/docker-image-optimization/"
     />
   </url>
   <url>
@@ -47,64 +219,10 @@
     />
   </url>
   <url>
-    <loc>http://localhost:1313/en/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/"
-    />
-  </url>
-  <url>
     <loc>http://localhost:1313/en/tags/networking/</loc>
     <lastmod>2026-04-30T16:00:00+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/posts/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/posts/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/tags/programming/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/series/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/series/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/series/"
-    />
   </url>
   <url>
     <loc>http://localhost:1313/en/posts/docker-compose-optimization-guide/</loc>
@@ -120,22 +238,6 @@
       rel="alternate"
       hreflang="en"
       href="http://localhost:1313/en/posts/docker-compose-optimization-guide/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/en/tags/</loc>
-    <lastmod>2026-04-30T16:00:00+08:00</lastmod>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/tags/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/tags/"
     />
   </url>
   <url>

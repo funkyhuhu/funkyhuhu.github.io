@@ -9,7 +9,27 @@
     <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
     <webMaster>daodao0988@gmail.com (Leia)</webMaster>
     <copyright>© 2026 Leia</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Rollback-Capable CI/CD with GitHub Actions &#43; Docker: Practical Insights from Build to Production</title>
+      <link>http://localhost:1313/en/posts/auto-cicd/</link>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/auto-cicd/</guid>
+      <description>&lt;p&gt;In software development, writing code is often not the hardest part; the real challenge is &amp;ldquo;ensuring that the code runs stably on the server.&amp;rdquo;&#xA;This time, I didn&amp;rsquo;t just &amp;ldquo;throw a website onto a server.&amp;rdquo; Instead, I streamlined a complete deployment path into a repeatable process:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>From 1.5GB to 300MB: A Practical Guide to Dockerfile Slimming and Multi-Stage Builds</title>
+      <link>http://localhost:1313/en/posts/docker-image-optimization/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/docker-image-optimization/</guid>
+      <description>&lt;p&gt;During backend development, have you ever noticed that even though your code is only a few MBs, the compiled Docker image ends up exceeding 1.5GB?&lt;/p&gt;&#xA;&lt;p&gt;Not only does this waste disk space, but it also turns every deployment to GCP or AWS into a &amp;ldquo;coffee break&amp;rdquo; while waiting for the image to upload. In this post, I’ll share how I reduced my image size by 80% without sacrificing the convenience of my local development environment.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>Streamlining Docker Compose YAML: Using Anchors and Aliases</title>

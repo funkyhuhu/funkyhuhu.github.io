@@ -9,7 +9,27 @@
     <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
     <webMaster>daodao0988@gmail.com (Leia)</webMaster>
     <copyright>© 2026 Leia</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Rollback-Capable CI/CD with GitHub Actions &#43; Docker: Practical Insights from Build to Production</title>
+      <link>http://localhost:1313/en/posts/auto-cicd/</link>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/auto-cicd/</guid>
+      <description>&lt;p&gt;In software development, writing code is often not the hardest part; the real challenge is &amp;ldquo;ensuring that the code runs stably on the server.&amp;rdquo;&#xA;This time, I didn&amp;rsquo;t just &amp;ldquo;throw a website onto a server.&amp;rdquo; Instead, I streamlined a complete deployment path into a repeatable process:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why I Swapped Nginx for Traefik: Deconstructing Cloud Automation and Development Environments</title>
+      <link>http://localhost:1313/en/posts/nginx-vs-traefik/</link>
+      <pubDate>Fri, 01 May 2026 04:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/nginx-vs-traefik/</guid>
+      <description>&lt;p&gt;When handling GCP VM deployments, the most intuitive approach is usually installing Nginx as a Reverse Proxy and manually applying for Let’s Encrypt certificates. However, when a project requires frequent iterations and must balance &amp;ldquo;local development experience&amp;rdquo; with &amp;ldquo;cloud automation,&amp;rdquo; this traditional method feels overly cumbersome.&lt;/p&gt;</description>
+      
+    </item>
     
     <item>
       <title>From 1.5GB to 300MB: A Practical Guide to Dockerfile Slimming and Multi-Stage Builds</title>

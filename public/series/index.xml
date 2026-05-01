@@ -9,14 +9,24 @@
     <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
     <webMaster>daodao0988@gmail.com (Leia)</webMaster>
     <copyright>© 2026 Leia</copyright>
-    <lastBuildDate>Thu, 30 Apr 2026 16:00:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/series/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>部署</title>
       <link>http://localhost:1313/series/%E9%83%A8%E7%BD%B2/</link>
-      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
       <author>daodao0988@gmail.com (Leia)</author>
       <guid>http://localhost:1313/series/%E9%83%A8%E7%BD%B2/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>程式</title>
+      <link>http://localhost:1313/series/%E7%A8%8B%E5%BC%8F/</link>
+      <pubDate>Fri, 01 May 2026 04:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/series/%E7%A8%8B%E5%BC%8F/</guid>
       <description></description>
       
     </item>
