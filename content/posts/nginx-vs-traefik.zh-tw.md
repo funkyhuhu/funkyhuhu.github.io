@@ -5,6 +5,7 @@ draft: false
 description: "這份文件詳細說明了 Nginx 與 Traefik 的差異以及雲端部署的自動化與開發環境"
 tags: ["程式", "Nginx", "Traefik"]
 series: ["程式"]
+categories: ["技術"]
 ---
 
 在處理 GCP VM 部署時，最直覺的作法通常是裝個 Nginx 做 Reverse Proxy，再手動申請 Let’s Encrypt。

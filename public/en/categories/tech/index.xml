@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tech on Leia&#39;s Notes</title>
+    <link>http://localhost:1313/en/categories/tech/</link>
+    <description>Recent content in Tech on Leia&#39;s Notes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <managingEditor>daodao0988@gmail.com (Leia)</managingEditor>
+    <webMaster>daodao0988@gmail.com (Leia)</webMaster>
+    <copyright>© 2026 Leia</copyright>
+    <lastBuildDate>Fri, 01 May 2026 04:13:00 +0800</lastBuildDate><atom:link href="http://localhost:1313/en/categories/tech/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Building a Rollback-Capable CI/CD with GitHub Actions &#43; Docker: Practical Insights from Build to Production</title>
+      <link>http://localhost:1313/en/posts/auto-cicd/</link>
+      <pubDate>Fri, 01 May 2026 04:13:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/auto-cicd/</guid>
+      <description>&lt;p&gt;In software development, writing code is often not the hardest part; the real challenge is &amp;ldquo;ensuring that the code runs stably on the server.&amp;rdquo;&#xA;This time, I didn&amp;rsquo;t just &amp;ldquo;throw a website onto a server.&amp;rdquo; Instead, I streamlined a complete deployment path into a repeatable process:&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Why I Swapped Nginx for Traefik: Deconstructing Cloud Automation and Development Environments</title>
+      <link>http://localhost:1313/en/posts/nginx-vs-traefik/</link>
+      <pubDate>Fri, 01 May 2026 04:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/nginx-vs-traefik/</guid>
+      <description>&lt;p&gt;When handling GCP VM deployments, the most intuitive approach is usually installing Nginx as a Reverse Proxy and manually applying for Let’s Encrypt certificates. However, when a project requires frequent iterations and must balance &amp;ldquo;local development experience&amp;rdquo; with &amp;ldquo;cloud automation,&amp;rdquo; this traditional method feels overly cumbersome.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>From 1.5GB to 300MB: A Practical Guide to Dockerfile Slimming and Multi-Stage Builds</title>
+      <link>http://localhost:1313/en/posts/docker-image-optimization/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/docker-image-optimization/</guid>
+      <description>&lt;p&gt;During backend development, have you ever noticed that even though your code is only a few MBs, the compiled Docker image ends up exceeding 1.5GB?&lt;/p&gt;&#xA;&lt;p&gt;Not only does this waste disk space, but it also turns every deployment to GCP or AWS into a &amp;ldquo;coffee break&amp;rdquo; while waiting for the image to upload. In this post, I’ll share how I reduced my image size by 80% without sacrificing the convenience of my local development environment.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers</title>
+      <link>http://localhost:1313/en/posts/network-basics/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/network-basics/</guid>
+      <description>&lt;p&gt;When developing or deploying projects, we often run into questions like &amp;ldquo;Why does it work on localhost but not over the internet?&amp;rdquo; or &amp;ldquo;How do machines talk to each other on a local network?&amp;rdquo; Understanding how network communication works isn&amp;rsquo;t just for acing interviews; it&amp;rsquo;s essential for securing your devices and optimizing deployment architectures. This article will deconstruct the flow of network packets, starting from the outermost layer: the ISP.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Streamlining Docker Compose YAML: Using Anchors and Aliases</title>
+      <link>http://localhost:1313/en/posts/docker-compose-optimization-guide/</link>
+      <pubDate>Thu, 30 Apr 2026 16:00:00 +0800</pubDate>
+      <author>daodao0988@gmail.com (Leia)</author>
+      <guid>http://localhost:1313/en/posts/docker-compose-optimization-guide/</guid>
+      <description>&lt;p&gt;When maintaining complex Docker Compose projects, it is common to encounter scenarios where multiple services share the same image, networks, or environment variables. Manually writing out the configuration for every service not only leads to bloated files but also increases the risk of missing an update when changes are required.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>

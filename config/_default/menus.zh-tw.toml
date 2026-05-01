@@ -5,8 +5,25 @@
 
 [[main]]
   name = "文章"
-  pageRef = "/posts"
   weight = 20
+
+[[main]]
+  name = "全部文章"
+  pageRef = "/posts"
+  parent = "文章"
+  weight = 21
+
+[[main]]
+  name = "主題"
+  pageRef = "/categories"
+  parent = "文章"
+  weight = 22
+
+[[main]]
+  name = "標籤"
+  pageRef = "/tags"
+  parent = "文章"
+  weight = 23
 
 [[main]]
   name = "關於我"
@@ -14,6 +31,11 @@
   weight = 30
 
 [[footer]]
-  name = "標籤"
-  pageRef = "tags"
+  name = "主題"
+  pageRef = "/categories"
   weight = 10
+
+[[footer]]
+  name = "標籤"
+  pageRef = "/tags"
+  weight = 20

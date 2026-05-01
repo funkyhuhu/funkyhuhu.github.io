@@ -5,6 +5,7 @@ draft: false
 description: "This guide details how to leverage YAML Anchors and Aliases to optimize your Docker Compose configuration files."
 tags: ["Programming", "Deployment", "Docker"]
 series: ["Deployment"]
+categories: ["Tech"]
 ---
 
 When maintaining complex Docker Compose projects, it is common to encounter scenarios where multiple services share the same image, networks, or environment variables. Manually writing out the configuration for every service not only leads to bloated files but also increases the risk of missing an update when changes are required.

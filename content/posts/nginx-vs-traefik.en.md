@@ -4,7 +4,8 @@ date: 2026-05-01T04:00:00+08:00
 draft: false
 description: "This document details the differences between Nginx and Traefik, as well as cloud deployment automation and development environments."
 tags: ["Programming", "Nginx", "Traefik"]
-series: ["Programming"]
+series: ["部署"]
+categories: ["Tech"]
 ---
 
 When handling GCP VM deployments, the most intuitive approach is usually installing Nginx as a Reverse Proxy and manually applying for Let’s Encrypt certificates. However, when a project requires frequent iterations and must balance "local development experience" with "cloud automation," this traditional method feels overly cumbersome.

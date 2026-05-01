@@ -5,8 +5,25 @@
 
 [[main]]
   name = "Posts"
-  pageRef = "/posts"
   weight = 20
+
+[[main]]
+  name = "All"
+  pageRef = "/posts"
+  parent = "Posts"
+  weight = 21
+
+[[main]]
+  name = "Topics"
+  pageRef = "/categories"
+  parent = "Posts"
+  weight = 22
+
+[[main]]
+  name = "Tags"
+  pageRef = "/tags"
+  parent = "Posts"
+  weight = 23
 
 [[main]]
   name = "About"

@@ -5,6 +5,7 @@ draft: false
 description: "This document details how to implement a rollback-capable CI/CD pipeline using GitHub Actions and Docker."
 tags: ["Programming", "Deployment", "docker", "CI/CD"]
 series: ["Deployment"]
+categories: ["Tech"]
 ---
 
 In software development, writing code is often not the hardest part; the real challenge is "ensuring that the code runs stably on the server."

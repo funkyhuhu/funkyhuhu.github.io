@@ -373,19 +373,77 @@
     
       
   
-    <a
-      href="/en/posts/"
-      
-      class="flex items-center bf-icon-color-hover"
-      aria-label="Posts"
-      title="Posts">
-      
-      
-        <span class="text-base font-medium break-normal">
-          Posts
-        </span>
-      
-    </a>
+    <div class="nested-menu">
+      <div class="cursor-pointer flex items-center">
+        <a
+          
+            tabindex="0"
+          
+          aria-label="Posts"
+          class="flex items-center text-base font-medium bf-icon-color-hover"
+          title="">
+          
+          <span class="text-bg font-bg break-normal" title="">
+            Posts
+          </span>
+          <span>
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </span>
+        </a>
+      </div>
+      <div class="menuhide">
+        <div class="pt-2 p-5 mt-2 rounded-xl backdrop-blur shadow-2xl bg-neutral/25 dark:bg-neutral-800/25">
+          <div class="flex flex-col space-y-3">
+            
+              <a
+                href="/en/posts/"
+                
+                aria-label="All"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Posts">
+                  All
+                </span>
+              </a>
+            
+              <a
+                href="/en/categories/"
+                
+                aria-label="Topics"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Topics">
+                  Topics
+                </span>
+              </a>
+            
+              <a
+                href="/en/tags/"
+                
+                aria-label="Tags"
+                class="flex items-center bf-icon-color-hover">
+                
+                <span class="text-sm font-sm" title="Tags">
+                  Tags
+                </span>
+              </a>
+            
+          </div>
+        </div>
+      </div>
+    </div>
   
 
     
@@ -546,17 +604,79 @@
     
     <div class="px-2">
       <a
-        href="/en/posts/"
+        href=""
         aria-label="Posts"
         
         class="flex items-center gap-4 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
         
-        <span title="Posts" class="text-2xl font-bold tracking-tight">
+        <span title="" class="text-2xl font-bold tracking-tight">
           Posts
         </span>
         
+          <label
+            for="fullscreen-submenu-posts"
+            class="ms-auto flex items-center justify-center h-10 w-10 cursor-pointer rounded-lg bf-icon-color-hover border bf-border-color bf-border-color-hover">
+            <span class="relative block icon"><svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 20 20"
+  fill="currentColor"
+  aria-hidden="true"
+>
+  <path
+    fill-rule="evenodd"
+    d="M5.23 7.21a.75.75 0 011.06.02L10 11.168l3.71-3.938a.75.75 0 111.08 1.04l-4.25 4.5a.75.75 0 01-1.08 0l-4.25-4.5a.75.75 0 01.02-1.06z"
+    clip-rule="evenodd"
+  />
+</svg>
+</span>
+          </label>
+        
       </a>
 
+      
+        <input checked type="checkbox" id="fullscreen-submenu-posts" autocomplete="off" class="hidden peer/full">
+
+        <div
+          class="grid grid-rows-[0fr] transition-[grid-template-rows] duration-300 peer-checked/full:grid-rows-[1fr]">
+          <div class="overflow-hidden">
+            <div class="ms-7 mt-4">
+              
+                <a
+                  href="/en/posts/"
+                  aria-label="All"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Posts" class="text-lg">
+                    All
+                  </span>
+                </a>
+              
+                <a
+                  href="/en/categories/"
+                  aria-label="Topics"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Topics" class="text-lg">
+                    Topics
+                  </span>
+                </a>
+              
+                <a
+                  href="/en/tags/"
+                  aria-label="Tags"
+                  
+                  class="flex items-center gap-3 p-2 group bf-icon-color-hover text-neutral-700 dark:text-neutral-200">
+                  
+                  <span title="Tags" class="text-lg">
+                    Tags
+                  </span>
+                </a>
+              
+            </div>
+          </div>
+        </div>
       
     </div>
   
@@ -1153,6 +1273,34 @@
         
       
         
+          
+            
+              
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
+                  <span class="flex cursor-pointer">
+  
+  
+  
+    
+    
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Tech
+  </span>
+</span>
+
+                </a>
+              
+            
+            
+              
+            
+          
+        
       
         
           
@@ -1382,7 +1530,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span title="Reading time">3 mins</span>
+      <span title="Reading time">2 mins</span>
     
 
     
@@ -1411,6 +1559,34 @@
       
         
       
+        
+          
+            
+              
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
+                  <span class="flex cursor-pointer">
+  
+  
+  
+    
+    
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Tech
+  </span>
+</span>
+
+                </a>
+              
+            
+            
+              
+            
+          
         
       
         
@@ -1649,479 +1825,33 @@
         
       
         
-      
-        
           
             
               
-            
-            
-              
-            
-          
-        
-      
-        
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/programming/">
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
                   <span class="flex cursor-pointer">
   
   
+  
+    
+    
   
   
     <span
       class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
   
-    Programming
+    Tech
   </span>
 </span>
 
                 </a>
               
             
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/deployment/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Deployment
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/docker/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Docker
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-        
-      
-    </div>
-  
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-  
-    
-
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-        
-      
-    
-
-    
-    
-      
-        
-        
-      
-    
-  
-
-
-
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/img/lavalamp.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/en/posts/network-basics/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">4 mins</span>
-    
-
-    
-    
-  </div>
-
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
-        
-      
-        
-          
-            
-              
-            
             
               
             
           
-        
-      
-        
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/programming/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Programming
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/deployment/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Deployment
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/networking/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Networking
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-        
-      
-    </div>
-  
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-  
-    
-
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-        
-      
-    
-
-    
-    
-      
-        
-        
-      
-    
-  
-
-
-
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/img/lavalamp.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/en/posts/docker-compose-optimization-guide/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          Streamlining Docker Compose YAML: Using Anchors and Aliases
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">3 mins</span>
-    
-
-    
-    
-  </div>
-
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
         
       
         
@@ -2372,6 +2102,34 @@
         
       
         
+          
+            
+              
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
+                  <span class="flex cursor-pointer">
+  
+  
+  
+    
+    
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Tech
+  </span>
+</span>
+
+                </a>
+              
+            
+            
+              
+            
+          
+        
       
         
           
@@ -2601,7 +2359,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span title="Reading time">3 mins</span>
+      <span title="Reading time">2 mins</span>
     
 
     
@@ -2630,6 +2388,34 @@
       
         
       
+        
+          
+            
+              
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
+                  <span class="flex cursor-pointer">
+  
+  
+  
+    
+    
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Tech
+  </span>
+</span>
+
+                </a>
+              
+            
+            
+              
+            
+          
         
       
         
@@ -2868,479 +2654,33 @@
         
       
         
-      
-        
           
             
               
-            
-            
-              
-            
-          
-        
-      
-        
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/programming/">
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
                   <span class="flex cursor-pointer">
   
   
+  
+    
+    
   
   
     <span
       class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
   
-    Programming
+    Tech
   </span>
 </span>
 
                 </a>
               
             
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/deployment/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Deployment
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/docker/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Docker
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-        
-      
-    </div>
-  
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-    
-      
-
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-        
-      
-    
-
-    
-    
-      
-        
-        
-      
-    
-  
-
-
-
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/img/lavalamp.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/en/posts/network-basics/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">4 mins</span>
-    
-
-    
-    
-  </div>
-
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
-        
-      
-        
-          
-            
-              
-            
             
               
             
           
-        
-      
-        
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/programming/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Programming
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/deployment/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Deployment
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/networking/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Networking
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-        
-      
-    </div>
-  
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-    
-      
-
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-        
-      
-    
-
-    
-    
-      
-        
-        
-      
-    
-  
-
-
-
-<article
-  class="article-link--card relative min-h-full min-w-full overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden thumbnail_card" style="--thumbnail-aspect-ratio: 1.5">
-      <img
-        src="/img/lavalamp.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  
-  <div class="p-4">
-    <header>
-      <a
-        
-          href="/en/posts/docker-compose-optimization-guide/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          Streamlining Docker Compose YAML: Using Anchors and Aliases
-          
-        </h2>
-      </a>
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">3 mins</span>
-    
-
-    
-    
-  </div>
-
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
         
       
         
@@ -3601,6 +2941,34 @@
         
       
         
+          
+            
+              
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
+                  <span class="flex cursor-pointer">
+  
+  
+  
+    
+    
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Tech
+  </span>
+</span>
+
+                </a>
+              
+            
+            
+              
+            
+          
+        
       
         
           
@@ -3840,7 +3208,7 @@
   <div class="flex flex-row flex-wrap items-center">
     
     
-      <span title="Reading time">3 mins</span>
+      <span title="Reading time">2 mins</span>
     
 
     
@@ -3869,6 +3237,34 @@
       
         
       
+        
+          
+            
+              
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
+                  <span class="flex cursor-pointer">
+  
+  
+  
+    
+    
+  
+  
+    <span
+      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
+  
+    Tech
+  </span>
+</span>
+
+                </a>
+              
+            
+            
+              
+            
+          
         
       
         
@@ -4117,499 +3513,33 @@
         
       
         
-      
-        
           
             
               
-            
-            
-              
-            
-          
-        
-      
-        
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/programming/">
+                <a class="relative mt-[0.5rem] me-2" href="/en/categories/tech/">
+                  
                   <span class="flex cursor-pointer">
   
   
+  
+    
+    
   
   
     <span
       class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
   
-    Programming
+    Tech
   </span>
 </span>
 
                 </a>
               
             
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/deployment/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Deployment
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/docker/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Docker
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-        
-      
-    </div>
-  
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-        
-      
-    
-
-    
-    
-      
-        
-        
-      
-    
-  
-
-
-
-<article class="article-link--simple flex flex-col md:flex-row relative overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden  thumbnail">
-      <img
-        src="/img/lavalamp.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  <div class=" p-4">
-    <header class="items-center text-start text-xl font-semibold">
-      <a
-        
-          href="/en/posts/network-basics/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers
-          
-        </h2>
-      </a>
-      
-      
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">4 mins</span>
-    
-
-    
-    
-  </div>
-
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
-        
-      
-        
-          
-            
-              
-            
             
               
             
           
-        
-      
-        
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/programming/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Programming
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/deployment/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Deployment
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-            
-              
-            
-            
-              
-                <a class="relative mt-[0.5rem] me-2" href="/en/tags/networking/">
-                  <span class="flex cursor-pointer">
-  
-  
-  
-  
-    <span
-      class="rounded-md border border-primary-400 px-1 py-[1px] text-xs font-normal text-primary-700 dark:border-primary-600 dark:text-primary-400">
-  
-    Networking
-  </span>
-</span>
-
-                </a>
-              
-            
-          
-        
-      
-    </div>
-  
-
-
-    </div>
-    
-  </div>
-  <div class="px-6 pt-4 pb-2"></div>
-</article>
-
-  
-    
-
-
-
-
-
-
-
-
-  
-  
-  
-
-
-
-
-
-
-
-
-  
-  
-    
-
-    
-    
-      
-      
-        
-      
-        
-      
-        
-      
-    
-
-    
-    
-      
-      
-        
-      
-    
-
-    
-    
-      
-        
-        
-      
-    
-  
-
-
-
-<article class="article-link--simple flex flex-col md:flex-row relative overflow-hidden rounded-lg border border-neutral-300 dark:border-neutral-600">
-  
-    <div class="flex-none relative overflow-hidden  thumbnail">
-      <img
-        src="/img/lavalamp.svg"
-        role="presentation"
-        loading="lazy"
-        decoding="async"
-        class="not-prose absolute inset-0 w-full h-full object-cover">
-    </div>
-  
-  <div class=" p-4">
-    <header class="items-center text-start text-xl font-semibold">
-      <a
-        
-          href="/en/posts/docker-compose-optimization-guide/"
-        
-        class="not-prose before:absolute before:inset-0 decoration-primary-500 dark:text-neutral text-xl font-bold text-neutral-800 hover:underline hover:underline-offset-2">
-        <h2>
-          Streamlining Docker Compose YAML: Using Anchors and Aliases
-          
-        </h2>
-      </a>
-      
-      
-    </header>
-    <div class="text-sm text-neutral-500 dark:text-neutral-400">
-      
-
-
-
-
-
-
-
-  
-
-  
-  
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-    
-  
-
-  
-
-  
-
-  
-
-  
-
-  
-
-
-  <div class="flex flex-row flex-wrap items-center">
-    
-    
-      <span title="Reading time">3 mins</span>
-    
-
-    
-    
-  </div>
-
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-          
-        
-      
-        
-      
-        
-      
-        
-      
-    </div>
-  
-
-  
-  
-    <div class="flex flex-row flex-wrap items-center">
-      
-        
-      
         
       
         

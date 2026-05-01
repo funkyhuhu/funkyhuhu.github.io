@@ -5,6 +5,7 @@ draft: false
 description: "這份文件詳細說明了如何利用多階段構建 Dockerfile"
 tags: ["程式", "部署", "docker"]
 series: ["部署"]
+categories: ["技術"]
 ---
 
 在後端開發的過程中，你是否也遇過明明程式碼只有幾 MB，但編譯出來的 Docker Image 卻直衝 1.5GB？

@@ -5,6 +5,7 @@ draft: false
 description: "這份文件詳細說明了如何利用 YAML 的 Anchors (&) 與 Aliases (*) 特性來優化 Docker Compose 設定檔"
 tags: ["程式", "部署", "docker"]
 series: ["部署"]
+categories: ["技術"]
 ---
 
 在維護複雜的 Docker Compose 專案時，我們常會遇到「多個服務使用相同映像檔、網路或環境變數」的情況。

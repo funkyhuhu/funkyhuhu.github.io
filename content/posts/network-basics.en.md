@@ -5,6 +5,7 @@ draft: false
 description: "From ISP to LAN Security: A Comprehensive Network Guide for Software Engineers"
 tags: ["Programming", "Deployment", "Networking"]
 series: ["Deployment"]
+categories: ["Tech"]
 ---
 
 When developing or deploying projects, we often run into questions like "Why does it work on localhost but not over the internet?" or "How do machines talk to each other on a local network?" Understanding how network communication works isn't just for acing interviews; it's essential for securing your devices and optimizing deployment architectures. This article will deconstruct the flow of network packets, starting from the outermost layer: the ISP.

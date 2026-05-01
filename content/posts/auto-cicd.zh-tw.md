@@ -5,6 +5,7 @@ draft: false
 description: "這份文件詳細說明了如何利用GitHub Actions + Docker 打造可 rollback 的 CI/CD"
 tags: ["程式", "部署", "docker", "CI/CD"]
 series: ["部署"]
+categories: ["技術"]
 ---
 
 在軟體開發中，寫 Code 往往不是最難的，「如何確保寫好的 Code 穩定地跑在 Server 上」才是真正的挑戰。

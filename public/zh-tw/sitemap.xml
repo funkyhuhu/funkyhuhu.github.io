@@ -67,6 +67,28 @@
     />
   </url>
   <url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/categories/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/categories/"
+    />
+  </url>
+  <url>
+    <loc>http://localhost:1313/categories/%E6%8A%80%E8%A1%93/</loc>
+    <lastmod>2026-05-01T04:13:00+08:00</lastmod>
+    <changefreq>always</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://localhost:1313/posts/</loc>
     <lastmod>2026-05-01T04:13:00+08:00</lastmod>
     <changefreq>always</changefreq>
@@ -125,6 +147,16 @@
     <lastmod>2026-05-01T04:13:00+08:00</lastmod>
     <changefreq>always</changefreq>
     <priority>0.5</priority>
+    <xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="http://localhost:1313/en/series/%E9%83%A8%E7%BD%B2/"
+    />
+    <xhtml:link
+      rel="alternate"
+      hreflang="zh-tw"
+      href="http://localhost:1313/series/%E9%83%A8%E7%BD%B2/"
+    />
   </url>
   <url>
     <loc>http://localhost:1313/tags/%E9%83%A8%E7%BD%B2/</loc>
@@ -253,21 +285,6 @@
       rel="alternate"
       hreflang="zh-tw"
       href="http://localhost:1313/authors/"
-    />
-  </url>
-  <url>
-    <loc>http://localhost:1313/categories/</loc>
-    <changefreq>always</changefreq>
-    <priority>0.5</priority>
-    <xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="http://localhost:1313/en/categories/"
-    />
-    <xhtml:link
-      rel="alternate"
-      hreflang="zh-tw"
-      href="http://localhost:1313/categories/"
     />
   </url>
   <url>

@@ -5,6 +5,7 @@ draft: false
 description: "A detailed walkthrough on optimizing Docker images using multi-stage builds and target stages."
 tags: ["Programming", "Deployment", "Docker"]
 series: ["Deployment"]
+categories: ["Tech"]
 ---
 
 During backend development, have you ever noticed that even though your code is only a few MBs, the compiled Docker image ends up exceeding 1.5GB?
